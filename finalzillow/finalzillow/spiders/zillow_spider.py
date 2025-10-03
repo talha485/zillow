@@ -1,7 +1,6 @@
 import scrapy
 import json
 
-
 class ZillowSpider(scrapy.Spider):
     name = "zillow"
     allowed_domains = ["zillow.com"]
@@ -20,14 +19,19 @@ class ZillowSpider(scrapy.Spider):
         "_px3": "1ef9ea4cb2de42b20cff841fffac7141053f83263bf1a300d3fe00c366e128b1:3jhPsm+3L5+/eVZSqixT1J13gmeL6WR/Kgdr/DFgSeozuK25PnG7wVI2uFlFvASiDCsMqZRj+HWm0Gm/TBopDQ==:1000:lbS+cbcLlqe0aoXQE0TcMoc2qTe+RsGOfmOdndhddO4WXk1uuNSbjyHg91O1uojVTVzGAjDC/vMUOpBs8NL+NL1oXWDD98zny9XtBB6e7pgwd2K6eKmiDRp7TGbL3QsdLH6sKHA+wAizbISb3WZ7NXB/+musqPYhrCjdkoZjS7bN7LRhVCFcrcozrQAVFEoHa4VXsiQ/LPEeUe+NcX44Wy8md+opqz5AWR5DSJpCBsI="
     }
 
-    def start_requests(self):
-        url = "https://www.zillow.com/async-create-search-page-state"
+    # Start city
+    start_city = "Los Angeles, CA"
+    base_url = "https://www.zillow.com/async-create-search-page-state"
 
-        # PUT request payload for a city (Los Angeles)
+    def start_requests(self):
+        # Start from page 1
+        yield from self.fetch_page(page=1)
+
+    def fetch_page(self, page):
         payload = {
             "searchQueryState": {
-                "pagination": {"currentPage": 1},
-                "usersSearchTerm": "Los Angeles, CA",
+                "pagination": {"currentPage": page},
+                "usersSearchTerm": self.start_city,
                 "mapBounds": {
                     "west": -119.1,
                     "east": -117.6,
@@ -39,11 +43,11 @@ class ZillowSpider(scrapy.Spider):
                 "isListVisible": True
             },
             "wants": {"cat1": ["listResults", "mapResults"]},
-            "requestId": 1
+            "requestId": page
         }
 
         yield scrapy.Request(
-            url=url,
+            url=self.base_url,
             method="PUT",
             cookies=self.cookies,
             headers={
@@ -51,15 +55,16 @@ class ZillowSpider(scrapy.Spider):
                 "Content-Type": "application/json",
             },
             body=json.dumps(payload),
-            callback=self.parse
+            callback=self.parse,
+            meta={"page": page}
         )
 
     def parse(self, response):
         try:
             data = json.loads(response.text)
-            # Extract properties list
             properties = data.get("cat1", {}).get("searchResults", {}).get("listResults", [])
 
+            # Yield property items
             for prop in properties:
                 yield {
                     "address": prop.get("address"),
@@ -71,5 +76,11 @@ class ZillowSpider(scrapy.Spider):
                     "statusType": prop.get("statusType"),
                     "statusText": prop.get("statusText")
                 }
+
+            # If there are results, fetch next page
+            if len(properties) > 0:
+                next_page = response.meta["page"] + 1
+                yield from self.fetch_page(next_page)
+
         except Exception as e:
-            self.logger.error(f"Failed to parse JSON: {e}")
+            self.logger.error(f"Failed to parse JSON on page {response.meta['page']}: {e}")

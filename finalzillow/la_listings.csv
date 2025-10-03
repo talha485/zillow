@@ -1,0 +1,985 @@
+address,price,beds,baths,area,zpid,statusType,statusText
+"2145 Sunset Crest Dr, Los Angeles, CA 90046",3198000,3,3.0,2341,20800737,FOR_SALE,House for sale
+"2215 Arbutus St, Newport Beach, CA 92660",3795000,5,4.0,2620,25477658,FOR_SALE,House for sale
+"16584 Silktree St, Fountain Valley, CA 92708",1449000,4,3.0,2100,25257153,FOR_SALE,House for sale
+"7062 Hawthorn Ave APT 101, Los Angeles, CA 90028",724999,2,2.0,1220,82830372,FOR_SALE,Condo for sale
+"5260 Palm Dr, La Canada Flintridge, CA 91011",1798000,3,3.0,1873,20923719,FOR_SALE,House for sale
+"19126 Avenue Of The Oaks UNIT C, Santa Clarita, CA 91321",325000,2,1.0,806,20230052,FOR_SALE,House for sale
+"3662 Sandpiper Way, Brea, CA 92823",1250000,5,3.0,2830,54969711,FOR_SALE,House for sale
+"14500 Van Nuys Blvd UNIT 33, Panorama City, CA 91402",589000,3,3.0,1402,20128242,FOR_SALE,Townhouse for sale
+"827 W Orangewood Ave, Anaheim, CA 92802",735000,3,2.0,1214,25322210,FOR_SALE,House for sale
+"27823 Sunrise Ln, Santa Clarita, CA 91351",305000,3,2.0,1482,136710146,FOR_SALE,House for sale
+"155 Pasadena Ave, Tustin, CA 92780",449000,3,2.0,1228,25449361,FOR_SALE,House for sale
+"12987 Sproule Ave, Sylmar, CA 91342",765000,3,2.0,1259,20072864,FOR_SALE,House for sale
+"13555 Magnolia Ave, Chino, CA 91710",699990,3,3.0,1635,17548995,FOR_SALE,House for sale
+"2556 Valencia St, Santa Ana, CA 92706",1349000,3,2.0,1641,25090925,FOR_SALE,House for sale
+"7653 Corto Rd, Anaheim Hills, CA 92808",5998999,6,7.0,5838,456973382,FOR_SALE,New construction
+"13691 Gavina Ave UNIT 574, Sylmar, CA 91342",359900,3,2.0,1652,136709683,FOR_SALE,Home for sale
+"16820 McCormick St, Encino, CA 91436",1695000,3,3.0,2254,19980419,FOR_SALE,House for sale
+"3294 Bennett Dr, Los Angeles, CA 90068",1195000,3,2.0,1476,20045800,FOR_SALE,House for sale
+"6534 Kentwood Bluffs Dr, Los Angeles, CA 90045",2995000,5,4.0,3340,20435094,FOR_SALE,House for sale
+"566 N Century Dr, Anaheim, CA 92805",749000,3,3.0,1825,25160208,FOR_SALE,House for sale
+"501 N Olive Ave, Alhambra, CA 91801",998000,3,2.0,1525,20706887,FOR_SALE,House for sale
+"3361 N Bellflower Blvd, Long Beach, CA 90808",949000,3,2.0,1428,21189472,FOR_SALE,House for sale
+"939 S Broadway UNIT 203, Los Angeles, CA 90015",499000,1,1.0,660,2065647847,FOR_SALE,Condo for sale
+"8688 Cranford Ave, Sun Valley, CA 91352",799000,3,2.0,1264,20122830,FOR_SALE,House for sale
+"1200 Bel Air Rd, Los Angeles, CA 90077",108888888,12,17.0,,20529664,FOR_SALE,House for sale
+"7350 E Calle Durango, Anaheim, CA 92808",888888,4,3.0,2304,25408560,FOR_SALE,Auction
+"7661 Curson Ter, Los Angeles, CA 90046",125000000,7,12.0,22000,20795042,FOR_SALE,New construction
+"3449 E Calle Baja Dr, West Covina, CA 91792",1099000,5,4.0,2582,21678937,FOR_SALE,House for sale
+"6962 Wildlife Rd, Malibu, CA 90265",110000000,5,11.0,7083,20555493,FOR_SALE,House for sale
+"607 Siena Way, Los Angeles, CA 90077",177000000,8,25.0,35000,447566500,FOR_SALE,House for sale
+"23601 Marsala, Laguna Hills, CA 92653",1050000,3,2.0,1120,25534789,FOR_SALE,House for sale
+"2154 W Niobe Ave, Anaheim, CA 92804",849900,3,2.0,1393,25223685,FOR_SALE,House for sale
+"894-894B S Pasadena Ave, Pasadena, CA 91105",750000,4,2.0,1779,457071224,FOR_SALE,House for sale
+"11824 Ellice St, Malibu, CA 90265",44000000,10,20.0,30000,96087448,FOR_SALE,House for sale
+"11 N San Gabriel Canyon Rd, Azusa, CA 91702",199000,2,1.0,980,2096217444,FOR_SALE,House for sale
+"2227 Century Hl, Los Angeles, CA 90067",1599000,2,3.0,2598,20510484,FOR_SALE,Townhouse for sale
+"20161 Canyon View Dr, Santa Clarita, CA 91351",345000,3,2.0,1752,136710454,FOR_SALE,House for sale
+"242 Mountain Ct, Brea, CA 92821",700000,3,2.0,1122,25367701,FOR_SALE,House for sale
+"205 E 64th St, Los Angeles, CA 90003",579999,3,2.0,1500,20930284,FOR_SALE,House for sale
+"1022 Creekside Dr #198, Fullerton, CA 92833",870000,3,3.0,1372,25725430,FOR_SALE,Townhouse for sale
+"961 Hudspeth St, Simi Valley, CA 93065",750000,4,2.0,1632,443979290,FOR_SALE,House for sale
+"4879 Hartwick St, Los Angeles, CA 90041",1199000,3,3.0,1225,20852927,FOR_SALE,House for sale
+"8433 Melvin Ave, Northridge, CA 91324",1995000,3,3.0,2345,20182603,FOR_SALE,House for sale
+"9051 Cedros Ave APT 5, Panorama City, CA 91402",390000,2,2.0,986,20133820,FOR_SALE,Condo for sale
+"3690 S Bear St #M-13, Santa Ana, CA 92704",395000,2,2.0,1093,456764492,FOR_SALE,Condo for sale
+"5220 Melvin Ave, Tarzana, CA 91356",1995000,5,4.0,3974,19940970,FOR_SALE,House for sale
+"2521 W 5th St, Los Angeles, CA 90057",995000,3,3.0,1642,20627048,FOR_SALE,House for sale
+"13691 Gavina Ave UNIT 585, Sylmar, CA 91342",295000,3,2.0,1596,136709694,FOR_SALE,Home for sale
+"478 Staunton St, Camarillo, CA 93010",875000,3,3.0,1512,16368865,FOR_SALE,House for sale
+"2791 Pine Creek Cir, Fullerton, CA 92835",669000,2,2.0,1215,25712483,FOR_SALE,Condo for sale
+"12809 Curtis And King Rd, Norwalk, CA 90650",785000,3,2.0,1228,21393240,FOR_SALE,House for sale
+"315-315 W Cedar St, Compton, CA 90220",270000,2,1.0,874,457012980,FOR_SALE,Foreclosure
+"20033 Emerald Creek Dr, Santa Clarita, CA 91351",320000,3,2.0,1482,136710080,FOR_SALE,House for sale
+"18432 E Galatea St, Azusa, CA 91702",600000,3,2.0,947,21632468,FOR_SALE,House for sale
+"701 El Medio Ave, Pacific Palisades, CA 90272",3950000,4,4.0,3489,20541666,FOR_SALE,House for sale
+"5719 E San Juan Dr, Orange, CA 92869",1275000,4,3.0,2444,25428092,FOR_SALE,House for sale
+"21187 Ambushers St, Diamond Bar, CA 91765",1580000,4,3.0,2397,21673952,FOR_SALE,House for sale
+"5320 Bevis Ave, Van Nuys, CA 91411",925000,3,2.0,1499,19975942,FOR_SALE,House for sale
+"2039 Micheltorena St, Los Angeles, CA 90039",3750000,5,5.0,3643,20747426,FOR_SALE,House for sale
+"2602 N Tustin Ave UNIT D, Santa Ana, CA 92705",340000,3,2.0,1455,2119855040,FOR_SALE,Condo for sale
+"6339 Riverton Ave, North Hollywood, CA 91606",899000,3,3.0,1528,20039427,FOR_SALE,House for sale
+"2514 N Tustin Ave #71, Santa Ana, CA 92705",399999,3,2.0,1455,25704225,FOR_SALE,Condo for sale
+"862 Sheridan St, Upland, CA 91786",680000,3,2.0,1200,17572088,FOR_SALE,House for sale
+"3307 Bonnie Hill Dr, Los Angeles, CA 90068",3895000,4,4.0,2839,20044959,FOR_SALE,House for sale
+"2578 Military Ave, Los Angeles, CA 90064",1995000,3,2.0,1951,20462452,FOR_SALE,House for sale
+"1311 Braeridge Dr, Beverly Hills, CA 90210",2195000,3,3.0,2120,20523119,FOR_SALE,House for sale
+"405 W Mountain View Ave APT 10, La Habra, CA 90631",540000,2,2.0,1042,25741136,FOR_SALE,Condo for sale
+"1147 6th St, Santa Monica, CA 90403",7300000,4,20.0,12327,457189601,FOR_SALE,Multi-family home for sale
+"10725 Ohio Ave #PENTHOUSE 2, Los Angeles, CA 90024",1295000,3,2.0,1616,457181039,FOR_SALE,Condo for sale
+"1205 N Beverly Glen Blvd, Los Angeles, CA 90077",849000,1,1.0,882,20529798,FOR_SALE,House for sale
+"2737 Via La Selva, Palos Verdes Estates, CA 90274",2350000,3,2.0,1694,21339478,FOR_SALE,House for sale
+"6517 Yarmouth Ave, Reseda, CA 91335",639900,3,2.0,1285,19917852,FOR_SALE,Foreclosure
+"3300 Garden Ave, Los Angeles, CA 90039",1550000,4,2.0,1484,20751423,FOR_SALE,House for sale
+"11651 Nan St, Whittier, CA 90606",598000,4,2.0,1340,21441249,FOR_SALE,House for sale
+"21918 Juan Ave, Hawaiian Gardens, CA 90716",599000,3,1.0,1120,21134892,FOR_SALE,House for sale
+"1054 Park Circle Dr, Torrance, CA 90502",785000,4,3.0,1780,21288055,FOR_SALE,Townhouse for sale
+"6741-6745 Newlin Ave, Whittier, CA 90601",685000,6,8.0,2200,456965360,FOR_SALE,Multi-family home for sale
+"24811 Via San Marco, Aliso Viejo, CA 92656",675000,3,2.0,1240,25542253,FOR_SALE,House for sale
+"2008 Glencoe Ave, Venice, CA 90291",2695000,3,2.0,2073,20452993,FOR_SALE,House for sale
+"20841 Horst Ave, Lakewood, CA 90715",790000,3,2.0,1355,21129241,FOR_SALE,House for sale
+"11823 Mayfield Ave #6, Los Angeles, CA 90049",679000,2,3.0,1354,20468806,FOR_SALE,Townhouse for sale
+"721 E Hanks St, Azusa, CA 91702",699000,4,2.0,1516,21633410,FOR_SALE,House for sale
+"19843 Coventry Ln, Huntington Beach, CA 92646",695000,3,2.0,1100,25279076,FOR_SALE,Townhouse for sale
+"25507 Longfellow Pl, Valencia, CA 91381",1199000,4,3.0,2584,20202991,FOR_SALE,House for sale
+"8455 Fountain Ave UNIT 409, West Hollywood, CA 90069",1195000,3,3.0,1914,20796671,FOR_SALE,Condo for sale
+"115 N Whitnall Hwy, Burbank, CA 91505",799000,3,3.0,1912,20065829,FOR_SALE,House for sale
+"1122 Berkeley Dr, Glendale, CA 91205",1149941,2,1.0,1195,20847855,FOR_SALE,House for sale
+"341 Douglas St, Los Angeles, CA 90026",700000,4,3.0,2492,20628184,FOR_SALE,Multi-family home for sale
+"1425 E Vermont Ave, Anaheim, CA 92805",775000,4,2.0,1927,25163170,FOR_SALE,House for sale
+"18511 Orangethorpe Ave, Anaheim, CA 92807",800000,3,2.0,1366,25388164,FOR_SALE,House for sale
+"3233 Dorchester Ave, Los Angeles, CA 90032",500000,2,1.0,764,20643221,FOR_SALE,House for sale
+"1648 Summitridge Dr, Beverly Hills, CA 90210",4995000,5,7.0,5404,20523173,FOR_SALE,House for sale
+"18901 Haas Ave, Torrance, CA 90504",778000,4,2.0,1850,20372822,FOR_SALE,House for sale
+"2338 Century Hl, Los Angeles, CA 90067",1998000,2,3.0,2373,2090300505,FOR_SALE,Condo for sale
+"1585 Baker St, Costa Mesa, CA 92626",1650000,3,2.0,1451,25246780,FOR_SALE,House for sale
+"22910 Collins St, Woodland Hills, CA 91367",3095000,6,6.0,4081,19878818,FOR_SALE,House for sale
+"4130 Prado De Los Caballos, Calabasas, CA 91302",5475000,5,6.0,6255,59274835,FOR_SALE,House for sale
+"27929 Dexter Dr, Santa Clarita, CA 91350",875000,4,3.0,1993,20318214,FOR_SALE,House for sale
+"1726 Stone Canyon Rd, Los Angeles, CA 90077",4985000,4,4.0,3102,20529441,FOR_SALE,House for sale
+"1830 Wilson Ave, Upland, CA 91784",949999,6,3.0,2863,17515141,FOR_SALE,House for sale
+"2945 Van Buren Pl, Los Angeles, CA 90007",999000,9,5.0,5405,20592532,FOR_SALE,Multi-family home for sale
+"15155 Trail View Ct, Sylmar, CA 91342",1100000,4,4.0,2701,20111544,FOR_SALE,House for sale
+"2015 Hyperion Ave, Los Angeles, CA 90027",675000,2,1.0,756,20746852,FOR_SALE,House for sale
+"11520 Albers St, North Hollywood, CA 91601",1149999,2,2.0,1217,20018039,FOR_SALE,House for sale
+"723 E 3rd St APT 16, Long Beach, CA 90802",229000,0,1.0,490,145643823,FOR_SALE,House for sale
+"751 Ocean View Ave #A, Monrovia, CA 91016",878000,2,2.0,1332,21584120,FOR_SALE,Condo for sale
+"1919 Sherry Ln APT 46, Santa Ana, CA 92705",525000,2,2.0,1159,25662341,FOR_SALE,Condo for sale
+"19173 Hastings St, Rowland Heights, CA 91748",2350000,7,6.0,4824,21484392,FOR_SALE,House for sale
+"25679 Smoketree Ln, Valencia, CA 91381",1350000,4,3.0,3147,59275571,FOR_SALE,House for sale
+"22114 W Gold Cyn, Santa Clarita, CA 91390",1000000,5,4.0,3374,457181092,FOR_SALE,House for sale
+"1132 Chantilly Rd, Los Angeles, CA 90077",2999000,3,3.0,2531,20529234,FOR_SALE,House for sale
+"14906 Grevillea Ave, Lawndale, CA 90260",695000,4,2.0,1406,20366343,FOR_SALE,House for sale
+"13031 Villosa Pl APT 425, Playa Vista, CA 90094",1450000,3,3.0,1830,72507126,FOR_SALE,Condo for sale
+"300 E Baseline Rd, Claremont, CA 91711",1398500,5,4.0,4115,21655935,FOR_SALE,House for sale
+"328 E 213th St, Carson, CA 90745",598800,3,2.0,1348,21259110,FOR_SALE,House for sale
+"4140 Cachalote St, Woodland Hills, CA 91364",999000,3,3.0,2401,19945192,FOR_SALE,House for sale
+"306 E Foothill Blvd, Glendora, CA 91741",2000000,9,3.0,6235,21639075,FOR_SALE,Multi-family home for sale
+"6220 E Garnet Cir, Anaheim, CA 92807",850000,3,3.0,1459,25165436,FOR_SALE,House for sale
+"27504 Courtview Dr, Santa Clarita, CA 91354",949999,4,3.0,2114,20193185,FOR_SALE,House for sale
+"255 Sawbuck, Irvine, CA 92618",1880000,3,3.0,2480,2062917560,FOR_SALE,Condo for sale
+"11609 Garrick Ave, Sylmar, CA 91342",1075000,4,3.0,1859,20083418,FOR_SALE,House for sale
+"3816 Snowden Ave, Long Beach, CA 90808",989900,4,2.0,1856,21187011,FOR_SALE,House for sale
+"914 18th St, Santa Monica, CA 90403",2990000,7,4.0,5100,20475022,FOR_SALE,Multi-family home for sale
+"1816 9th St, Manhattan Beach, CA 90266",4199000,5,5.0,4524,20413051,FOR_SALE,House for sale
+"22720 Harvard Blvd, Torrance, CA 90501",1795000,16,8.0,6240,250343445,FOR_SALE,Multi-family home for sale
+"9932 Newcastle Ave, Westminster, CA 92683",1449000,5,3.0,2328,25188786,FOR_SALE,House for sale
+"4351 Cornell Rd, Agoura Hills, CA 91301",1599000,3,4.0,2431,19893792,FOR_SALE,House for sale
+"735 Garfield South Pasadena, South Pasadena, CA 91030",1699000,3,2.0,1912,457100314,FOR_SALE,House for sale
+"852 10th St APT 1, Santa Monica, CA 90403",2395000,3,4.0,2580,102961436,FOR_SALE,Condo for sale
+"542 N Commonwealth Ave, Los Angeles, CA 90004",1780000,3,3.0,2947,338341676,FOR_SALE,House for sale
+"1715 Westmoreland Blvd, Los Angeles, CA 90006",3650000,14,11.0,10083,2072821146,FOR_SALE,Multi-family home for sale
+"11939 Weddington St UNIT 313, Valley Village, CA 91607",665000,2,3.0,1252,20017764,FOR_SALE,Condo for sale
+"522 W Cherry St, Compton, CA 90222",530000,2,2.0,960,21002134,FOR_SALE,House for sale
+"1847 Virginia Rd, Los Angeles, CA 90019",2749000,4,4.0,3261,20601529,FOR_SALE,House for sale
+"23543 Heather Knolls Pl, Santa Clarita, CA 91321",875000,3,2.0,1598,20207063,FOR_SALE,House for sale
+"9014 Rangely Ave, West Hollywood, CA 90048",1780000,4,4.0,2048,20516529,FOR_SALE,Multi-family home for sale
+"1046 E Trenton Ave, Orange, CA 92867",1095000,4,2.0,1643,25425315,FOR_SALE,House for sale
+"2375 W 12th St, Los Angeles, CA 90006",2350000,10,11.0,12306,250334133,FOR_SALE,Multi-family home for sale
+"3338-3338 Palermo Ct, Pasadena, CA 91107",3888888,5,5.0,4401,457181011,FOR_SALE,House for sale
+"22322 Silent Brk, Lake Forest, CA 92630",800000,3,2.0,1499,25527737,FOR_SALE,House for sale
+"24 Barrett Cyn, Mt Baldy, CA 91759",260000,2,1.0,1069,299167185,FOR_SALE,House for sale
+"17956 Joshua Dr, Yorba Linda, CA 92886",1220000,4,2.0,1618,25374212,FOR_SALE,House for sale
+"221 Vista Circle Dr, Sierra Madre, CA 91024",949000,2,2.0,1148,20883080,FOR_SALE,House for sale
+"355 S Marengo Ave APT 203, Pasadena, CA 91101",650000,2,2.0,992,20862154,FOR_SALE,Condo for sale
+"8640 Gulana Ave UNIT K1020, Playa Del Rey, CA 90293",699000,3,2.0,1212,20388510,FOR_SALE,Condo for sale
+"750 S Spaulding Ave APT 312, Los Angeles, CA 90036",849000,2,2.0,1454,20610187,FOR_SALE,Condo for sale
+"412 W Pear St, Compton, CA 90222",550000,3,1.0,912,58498024,FOR_SALE,House for sale
+"6736 Aster Ct, Chino, CA 91710",799900,5,2.0,1790,17585291,FOR_SALE,House for sale
+"10320 Mississippi Ave, Los Angeles, CA 90025",2495000,4,4.0,2336,20500356,FOR_SALE,House for sale
+"18900 Delaware St #48, Huntington Beach, CA 92648",198000,1,1.0,561,25737710,FOR_SALE,Condo for sale
+"4000 Topside Ln, Corona Del Mar, CA 92625",6695000,4,3.0,2801,25494243,FOR_SALE,House for sale
+"14120 Wyant Ln, Whittier, CA 90602",1249000,5,4.0,2863,21430367,FOR_SALE,House for sale
+"5600 S Manhattan Pl, Los Angeles, CA 90062",790000,4,2.0,1860,20563565,FOR_SALE,Multi-family home for sale
+"3436 W 79th St, Inglewood, CA 90305",939900,5,3.0,2072,20330029,FOR_SALE,House for sale
+"13331 Moorpark St APT 123, Sherman Oaks, CA 91423",689000,2,2.0,1298,20022766,FOR_SALE,Condo for sale
+"2934 Glenn Ave, Santa Monica, CA 90405",2795000,4,3.0,2082,20481625,FOR_SALE,House for sale
+"27233 Rockgrove Ave, Santa Clarita, CA 91351",750000,3,2.0,1444,20187051,FOR_SALE,House for sale
+"243 E 68th St, Los Angeles, CA 90003",780000,10,6.0,1964,20933081,FOR_SALE,Multi-family home for sale
+"10444 Charing Cross Rd, Los Angeles, CA 90024",17695000,6,8.0,9240,20524172,FOR_SALE,House for sale
+"707 E Tularosa Ave, Orange, CA 92866",1275000,5,4.0,2011,25434053,FOR_SALE,House for sale
+"24643 Maple Ln, Harbor City, CA 90710",915000,3,3.0,1835,51600404,FOR_SALE,Townhouse for sale
+"1330 Ditwood Pl, La Habra, CA 90631",899999,3,2.0,1333,111420079,FOR_SALE,House for sale
+"750 E Laurel Ave, Glendora, CA 91741",1050000,3,2.0,1507,21643802,FOR_SALE,House for sale
+"1046 Chautauqua Blvd, Pacific Palisades, CA 90272",5750000,4,4.0,3300,20545547,FOR_SALE,House for sale
+"432 S Willaman Dr APT 401, Los Angeles, CA 90048",2095000,3,4.0,2310,95678294,FOR_SALE,Condo for sale
+"8205 E Somerset Ln, Anaheim, CA 92808",1800000,5,4.0,2863,25404212,FOR_SALE,House for sale
+"1809 Overland Ave APT 5, Los Angeles, CA 90025",1089000,2,3.0,1569,60115433,FOR_SALE,Townhouse for sale
+"100 Palmetto Dr APT 1, Pasadena, CA 91105",574000,1,1.0,462,20858225,FOR_SALE,House for sale
+"10961 Savona Rd, Los Angeles, CA 90077",1495000,4,3.0,2649,20530412,FOR_SALE,House for sale
+"1 Thyme Pl, Rancho Palos Verdes, CA 90275",1425000,5,4.0,2000,21356740,FOR_SALE,House for sale
+"1741 S Bentley Ave APT 1, Los Angeles, CA 90025",1249000,3,3.0,1814,80276912,FOR_SALE,Townhouse for sale
+"2030 Lovila Ln, Altadena, CA 91001",1098000,2,2.0,1098,20914823,FOR_SALE,House for sale
+"2400 Quincy Ave, Long Beach, CA 90815",1249900,3,2.0,2052,21199948,FOR_SALE,House for sale
+"24955 Wells Fargo Dr, Laguna Hills, CA 92653",1350000,4,3.0,2100,25540555,FOR_SALE,House for sale
+"1633 Del Amo Blvd, Torrance, CA 90501",750000,3,2.0,1357,21268419,FOR_SALE,Multi-family home for sale
+"1672 E 76th St, Los Angeles, CA 90001",499000,4,2.0,1050,20940150,FOR_SALE,House for sale
+"2074 Las Lunas St, Pasadena, CA 91107",1695000,3,2.0,1758,20874067,FOR_SALE,House for sale
+"2571 Wallingford Dr, Beverly Hills, CA 90210",52000000,12,24.0,38000,20532066,FOR_SALE,House for sale
+"2607 Darwin Ave, Los Angeles, CA 90031",1299000,7,3.0,2120,65235836,FOR_SALE,House for sale
+"28801 Barragan St, Agoura Hills, CA 91301",1595000,5,3.0,2347,19883869,FOR_SALE,House for sale
+"2000 Baja Ave, La Habra, CA 90631",725000,3,2.0,1179,25103622,FOR_SALE,House for sale
+"3036 Knollwood Ave, La Verne, CA 91750",465000,2,1.0,833,21525654,FOR_SALE,Condo for sale
+"1764 E Orange Grove Blvd, Pasadena, CA 91104",1999000,3,2.0,1784,20876209,FOR_SALE,House for sale
+"5405 Gentry Ave, Valley Village, CA 91607",1499999,3,2.0,2239,20017716,FOR_SALE,House for sale
+"518-518 Lesterwest Way, Glendora, CA 91741",978000,3,2.0,1446,457186325,FOR_SALE,House for sale
+"714 California Ave, Venice, CA 90291",4795000,4,5.0,,20451807,FOR_SALE,House for sale
+"10952 Barman Ave, Culver City, CA 90230",1649000,3,2.0,1464,20434753,FOR_SALE,House for sale
+"2860 Graceland Way, Glendale, CA 91206",1050000,2,2.0,1455,20841474,FOR_SALE,House for sale
+"2622 2nd St APT 2, Santa Monica, CA 90405",1925000,3,3.0,1884,20483471,FOR_SALE,Condo for sale
+"2049 N Screenland Dr, Burbank, CA 91505",1350000,4,2.0,1625,20056420,FOR_SALE,House for sale
+"25124 Malibu Rd, Malibu, CA 90265",6900000,3,3.0,2363,20554532,FOR_SALE,Townhouse for sale
+"1521 Sunbluff Dr, Diamond Bar, CA 91765",1349880,4,2.0,2026,21494441,FOR_SALE,House for sale
+"5847 1/2 Ernest Ave, Los Angeles, CA 90034",679000,2,2.0,760,2055910069,FOR_SALE,Condo for sale
+"151 E El Norte St, Monrovia, CA 91016",798000,2,1.0,826,21580212,FOR_SALE,House for sale
+"1800 Yermo Pl, Fullerton, CA 92833",1349900,3,2.0,1690,25354261,FOR_SALE,House for sale
+"4332 Ben Ave, Studio City, CA 91604",1699000,3,2.0,2185,20027081,FOR_SALE,House for sale
+"2302 Lori Ln, Santa Ana, CA 92706",1279000,5,2.0,2000,25446453,FOR_SALE,House for sale
+"9228 Ventana Ln, North Hills, CA 91343",725000,3,3.0,1913,20133417,FOR_SALE,Condo for sale
+"1441 Federal Ave APT 301, Los Angeles, CA 90025",810000,2,2.0,1166,20466907,FOR_SALE,Condo for sale
+"1963 10th St, La Verne, CA 91750",775000,4,2.0,1272,21525118,FOR_SALE,House for sale
+"6939 White Oak Ave, Reseda, CA 91335",739950,3,1.0,1324,19917083,FOR_SALE,House for sale
+"7848 Forsythe St, Sunland, CA 91040",849950,3,2.0,1224,20094186,FOR_SALE,House for sale
+"11402 Rose Hedge Dr, Whittier, CA 90606",799000,3,1.0,1259,21443328,FOR_SALE,House for sale
+"1840 Lave Ave, Long Beach, CA 90815",850000,3,2.0,1444,21204061,FOR_SALE,House for sale
+"4901 Green River Rd SPC 239, Corona, CA 92880",175000,4,2.0,1176,2081382712,FOR_SALE,Home for sale
+"10936 Chalon Rd, Los Angeles, CA 90077",120000000,9,13.0,14941,20529056,FOR_SALE,House for sale
+"4321 Los Feliz Blvd #1, Los Angeles, CA 90027",859000,2,2.0,1448,20812163,FOR_SALE,Condo for sale
+"4400 Cartwright Ave UNIT 102, North Hollywood, CA 91602",760000,2,2.0,1215,59893319,FOR_SALE,Condo for sale
+"958 S Crossbow Ln #8, Anaheim, CA 92804",280000,2,2.0,1224,25677040,FOR_SALE,Condo for sale
+"16719 Citronia St, North Hills, CA 91343",925000,4,2.0,1408,20149202,FOR_SALE,House for sale
+"235 S Tower Dr UNIT 301, Beverly Hills, CA 90211",1350000,2,2.0,1533,20514366,FOR_SALE,Condo for sale
+"1425 W Woodcrest Ave, Fullerton, CA 92833",920000,3,2.0,1092,25155904,FOR_SALE,House for sale
+"5055 Coldwater Canyon Ave APT 105, Sherman Oaks, CA 91423",539000,2,2.0,973,20021715,FOR_SALE,Condo for sale
+"266 Olive St, Claremont, CA 91711",599000,2,1.0,600,21501954,FOR_SALE,House for sale
+"1039 Wallace Rdg, Beverly Hills, CA 90210",36800000,5,7.0,9931,20534685,FOR_SALE,House for sale
+"4654 Toland Way, Los Angeles, CA 90041",999000,2,2.0,840,20765217,FOR_SALE,House for sale
+"1118 Wellington Ave, Pasadena, CA 91103",3495000,4,5.0,3625,20855906,FOR_SALE,House for sale
+"14520 Los Fuentes Rd, La Mirada, CA 90638",799000,4,2.0,1406,21397073,FOR_SALE,House for sale
+"2608 N Tustin Ave UNIT A, Santa Ana, CA 92705",288000,2,2.0,1267,2126591578,FOR_SALE,Condo for sale
+"4263 Vista Pl, Malibu, CA 90265",2195000,5,3.0,2744,20555061,FOR_SALE,House for sale
+"630 W 6th St APT 303, Los Angeles, CA 90017",299000,1,1.0,710,79799988,FOR_SALE,Condo for sale
+"8707 Falmouth Ave, Playa Del Rey, CA 90293",759000,2,2.0,994,2110862653,FOR_SALE,Condo for sale
+"2515 Canyon Dr, Los Angeles, CA 90068",1595000,3,2.0,1690,20805971,FOR_SALE,House for sale
+"15657-15657 Devonshire St, Granada Hills, CA 91344",1200000,3,2.0,1602,451366261,FOR_SALE,House for sale
+"1842 Balboa Way, Upland, CA 91784",1175000,5,4.0,2800,17565678,FOR_SALE,House for sale
+"1220 Hillcrest Ave, Pasadena, CA 91106",22000000,5,13.0,15533,102665422,FOR_SALE,House for sale
+"333 N San Rafael Ave, Pasadena, CA 91105",5895000,4,4.0,4181,20856570,FOR_SALE,House for sale
+"1162 E 9th St, Long Beach, CA 90813",499900,2,1.0,600,21234130,FOR_SALE,House for sale
+"53 Cottontail Dr, Pomona, CA 91766",898000,4,2.0,1810,21662639,FOR_SALE,House for sale
+"917 N Crescent Dr, Beverly Hills, CA 90210",32000000,6,10.0,15096,20521157,FOR_SALE,House for sale
+"1261 Angelo Dr, Beverly Hills, CA 90210",175000000,16,27.0,50000,95547747,FOR_SALE,New construction
+"1638 Vejar St, Pomona, CA 91766",738000,4,2.0,1350,21516928,FOR_SALE,House for sale
+"3725 Glenfeliz Blvd, Los Angeles, CA 90039",1995000,3,3.0,1937,20750201,FOR_SALE,House for sale
+"18 Still Water, Newport Coast, CA 92657",5995000,5,5.0,3298,63113655,FOR_SALE,House for sale
+"2251 Bryce Rd, El Monte, CA 91732",565000,3,2.0,1150,21412952,FOR_SALE,House for sale
+"19051 Randi Ln, Huntington Beach, CA 92646",1395000,4,3.0,1812,25279283,FOR_SALE,House for sale
+"4902 Manzanita St, Montclair, CA 91763",710000,3,2.0,1416,17528444,FOR_SALE,House for sale
+"1135 Via Colinas, Thousand Oaks, CA 91362",600000,3,3.0,1332,450205705,FOR_SALE,Townhouse for sale
+"525 S Ardmore Ave APT 257, Los Angeles, CA 90020",299000,0,1.0,381,20774239,FOR_SALE,Condo for sale
+"4455 N Lark Ellen Ln, Covina, CA 91722",379000,3,2.0,1163,21543590,FOR_SALE,Auction
+"20955 De Mina St, Woodland Hills, CA 91364",1099000,4,3.0,1766,19942168,FOR_SALE,House for sale
+"1920 Yucca Ave, Fullerton, CA 92835",3199999,5,4.0,3950,25357188,FOR_SALE,House for sale
+"15752-15752 Cobalt St, Sylmar, CA 91342",988000,4,3.0,2282,451620963,FOR_SALE,House for sale
+"23431 Via Guadix, Mission Viejo, CA 92691",1398000,4,2.0,1640,25623668,FOR_SALE,House for sale
+"16777 Oakway Ln, Chino Hills, CA 91709",699888,3,2.0,1354,17511148,FOR_SALE,House for sale
+"2160 Century Park E APT 2101, Los Angeles, CA 90067",899000,1,1.0,832,2068379364,FOR_SALE,Condo for sale
+"2015 Corral Canyon Rd, Malibu, CA 90265",1000000,3,3.0,2400,20553683,FOR_SALE,House for sale
+"132 N Monterey Ave, Ontario, CA 91764",595000,3,1.0,1026,17579291,FOR_SALE,House for sale
+"617 N Wilson Ave, Pasadena, CA 91106",690000,2,2.0,1064,20866978,FOR_SALE,Condo for sale
+"201 E Angeleno Ave UNIT 326, Burbank, CA 91502",302500,2,1.0,890,66674645,FOR_SALE,Condo for sale
+"502 Dove Dr, Los Angeles, CA 90065",899000,2,1.0,858,20761104,FOR_SALE,House for sale
+"10527 Angell St, Norwalk, CA 90650",750000,3,2.0,1330,21393156,FOR_SALE,House for sale
+"2709 W 109th St, Inglewood, CA 90303",700000,5,3.0,1619,20341853,FOR_SALE,House for sale
+"215 Madeline Dr, Pasadena, CA 91105",1270000,3,3.0,2306,250338617,FOR_SALE,House for sale
+"10710 Toluca Ct, North Hollywood, CA 91602",798000,3,4.0,1765,243991471,FOR_SALE,House for sale
+"529 Bregante Dr, Diamond Bar, CA 91765",1059000,5,3.0,1923,21487947,FOR_SALE,House for sale
+"21851 Newland St SPACE 137, Huntington Beach, CA 92646",169000,3,2.0,1368,25647342,FOR_SALE,Home for sale
+"23701 S Western Ave SPACE 113, Torrance, CA 90501",95000,3,2.0,,455721036,FOR_SALE,Home for sale
+"22552 Montova, Laguna Hills, CA 92653",1100000,3,2.0,1120,25534554,FOR_SALE,House for sale
+"2273 W Judith Ln, Anaheim, CA 92804",899000,3,2.0,1400,25222484,FOR_SALE,House for sale
+"25730 Wordsworth Ln, Stevenson Ranch, CA 91381",899999,3,3.0,1624,20204359,FOR_SALE,House for sale
+"1420 Davies Dr, Beverly Hills, CA 90210",69995000,8,14.0,21800,20523735,FOR_SALE,House for sale
+"3646 Sunswept Dr, Studio City, CA 91604",3495000,3,4.0,2264,20029705,FOR_SALE,House for sale
+"13846 Farmhouse Ave, Chino, CA 91710",850000,5,3.0,2250,337973290,FOR_SALE,House for sale
+"17121 Rancho St, Encino, CA 91316",5999999,8,15.0,18000,19993353,FOR_SALE,New construction
+"20829 Marshall Way, Santa Clarita, CA 91350",0,4,3.0,2055,20197716,FOR_SALE,Auction
+"700 Lido Park Dr UNIT 5, Newport Beach, CA 92663",699995,3,2.0,1200,59729578,FOR_SALE,Multi-family home for sale
+"8841 Monte Vista St, Alta Loma, CA 91701",899000,4,3.0,2406,17291759,FOR_SALE,House for sale
+"13081 Oak Hills Dr #M9-223I, Seal Beach, CA 90740",335000,2,1.0,950,457185430,FOR_SALE,Condo for sale
+"15701 Ludlow St, Granada Hills, CA 91344",1149000,3,2.0,1800,20139166,FOR_SALE,House for sale
+"1320 San Bernardino Rd SPC 38, Upland, CA 91786",321750,3,2.0,1440,82912520,FOR_SALE,For sale by owner
+"941 Elm Ave APT 11, Long Beach, CA 90813",499990,2,3.0,1051,21236803,FOR_SALE,Townhouse for sale
+"12400 S Wilmington Ave, Compton, CA 90222",595000,2,1.0,920,21000165,FOR_SALE,House for sale
+"15939 Tanzinite Ln, Chino, CA 91708",749000,3,3.0,1814,439454005,FOR_SALE,Condo for sale
+"3500 W Manchester Blvd UNIT 450, Inglewood, CA 90305",659000,3,2.0,1493,20339590,FOR_SALE,Condo for sale
+"29262 Florabunda Rd, Santa Clarita, CA 91387",700000,4,3.0,1624,20219780,FOR_SALE,House for sale
+"28531 Las Canastas Dr, Valencia, CA 91354",999000,4,3.0,3019,72096794,FOR_SALE,House for sale
+"3215 Bonnie Hill Dr, Los Angeles, CA 90068",1895000,3,3.0,1642,20044951,FOR_SALE,House for sale
+"810 Oceanside St, Wilmington, CA 90744",595000,4,2.0,1540,21286599,FOR_SALE,House for sale
+"1918 Canal St, Venice, CA 90291",1750000,3,3.0,2107,20450562,FOR_SALE,Multi-family home for sale
+"6923 Willowtree Dr, Rancho Palos Verdes, CA 90275",1975000,5,3.0,2242,21361561,FOR_SALE,House for sale
+"14042 Hawes St, Whittier, CA 90605",895000,4,2.0,1334,21437736,FOR_SALE,House for sale
+"2669 Harlesden Ct, Los Angeles, CA 90046",3295000,4,4.0,4311,20802897,FOR_SALE,House for sale
+"3201 Benedict Canyon Dr, Beverly Hills, CA 90210",999000,2,2.0,1950,20532137,FOR_SALE,House for sale
+"1948 N Rory Ln #5, Simi Valley, CA 93063",499000,2,3.0,1287,16456462,FOR_SALE,Foreclosure
+"713 N Poplar Pl, Anaheim, CA 92805",900000,4,2.0,1743,25127582,FOR_SALE,House for sale
+"20164 Crestview Dr, Santa Clarita, CA 91351",313000,3,2.0,1482,136710364,FOR_SALE,House for sale
+"5460 White Oak Ave UNIT E339, Los Angeles, CA 91316",270000,2,2.0,1009,19979218,FOR_SALE,Condo for sale
+"617 N Palm Ave, Ontario, CA 91762",560000,2,2.0,945,17578230,FOR_SALE,House for sale
+"6049 Pennswood Ave, Lakewood, CA 90712",799000,5,2.0,2509,21176441,FOR_SALE,House for sale
+"194 E Washington Blvd, Pasadena, CA 91103",699000,2,2.0,950,20865262,FOR_SALE,House for sale
+"29001 Catherwood Ct, Agoura Hills, CA 91301",1399000,4,3.0,3163,19884350,FOR_SALE,House for sale
+"1445 W 55th St, Los Angeles, CA 90062",599900,3,2.0,1087,20562459,FOR_SALE,House for sale
+"30440 104th St E, Littlerock, CA 93543",509500,3,2.0,1580,20272394,FOR_SALE,Home for sale
+"31512 Karena Ave, Castaic, CA 91384",725000,3,2.0,1286,20230859,FOR_SALE,House for sale
+"13691 Gavina Ave UNIT 420, Sylmar, CA 91342",370000,3,2.0,1471,136709544,FOR_SALE,Home for sale
+"8618 La Tuna Canyon Rd, Sun Valley, CA 91352",739937,3,2.0,1544,20033465,FOR_SALE,House for sale
+"1104 Nowita Pl, Venice, CA 90291",3195000,3,4.0,2257,20452809,FOR_SALE,House for sale
+"2091 Ridgeview Ter, Corona, CA 92882",665000,3,2.0,1654,17761216,FOR_SALE,House for sale
+"25115 Eldorado Meadow Rd, Hidden Hills, CA 91302",13500000,6,8.0,8860,19883190,FOR_SALE,House for sale
+"9006 Stacie Ln #26, Anaheim, CA 92804",590000,4,2.0,1526,25748718,FOR_SALE,Condo for sale
+"13382 Beach Terrace Dr, Garden Grove, CA 92844",799999,3,2.0,1348,25181893,FOR_SALE,House for sale
+"1414 N Harper Ave APT 4, West Hollywood, CA 90046",1799000,4,4.0,2290,124901607,FOR_SALE,Townhouse for sale
+"2449 N Commonwealth Ave, Los Angeles, CA 90027",3295000,4,4.0,2870,20809428,FOR_SALE,House for sale
+"1950 Yosemite Dr, Los Angeles, CA 90041",1068000,2,2.0,957,20851100,FOR_SALE,House for sale
+"1714 Roundtree Cir, Diamond Bar, CA 91765",890000,3,3.0,1338,21493027,FOR_SALE,House for sale
+"6216 Hope St, Simi Valley, CA 93063",0,3,2.0,1170,16455894,FOR_SALE,Auction
+"3050 Ball Rd #88, Anaheim, CA 92804",289000,3,2.0,1500,453311433,FOR_SALE,House for sale
+"4338 Heather Rd, Long Beach, CA 90808",2650000,5,5.0,4553,21183759,FOR_SALE,House for sale
+"1749 Vallecito Dr, San Pedro, CA 90732",1675000,4,3.0,2612,21352983,FOR_SALE,House for sale
+"953 N Martel Ave, Los Angeles, CA 90046",970000,2,1.0,1029,455324628,FOR_SALE,House for sale
+"240 W Queen St APT 10, Inglewood, CA 90301",450000,2,2.0,1182,20336132,FOR_SALE,Condo for sale
+"8800 Eton Ave SPACE 32, Canoga Park, CA 91304",299900,3,2.0,1352,244501442,FOR_SALE,Home for sale
+"1149 S Carmelina Ave, Los Angeles, CA 90049",3200000,4,4.0,2535,20467854,FOR_SALE,House for sale
+"28037 Via Tirso, Mission Viejo, CA 92692",885000,2,2.0,1439,25613165,FOR_SALE,House for sale
+"11203 Redberry St, El Monte, CA 91733",520000,2,1.0,1071,21412043,FOR_SALE,House for sale
+"26946 Pacific Coast Hwy, Malibu, CA 90265",39000000,5,7.0,7356,20554893,FOR_SALE,House for sale
+"9330 Flicker Way, West Hollywood, CA 90069",68000000,9,14.0,,2059262429,FOR_SALE,House for sale
+"1245 Grandview Ave APT 4, Glendale, CA 91201",1050000,3,3.0,1598,20824089,FOR_SALE,Townhouse for sale
+"23356 Via San Miguel, Aliso Viejo, CA 92656",720000,3,2.0,1240,25542104,FOR_SALE,House for sale
+"3628 Summershore Ln, Westlake Village, CA 91361",735000,2,2.0,1195,19890917,FOR_SALE,Townhouse for sale
+"8291 Polk Cir, Huntington Beach, CA 92646",1189000,4,2.0,1137,25276292,FOR_SALE,House for sale
+"1831 Reiter Dr, Pasadena, CA 91106",998000,2,1.0,1060,20875349,FOR_SALE,House for sale
+"3969 Alta Mesa Dr, Studio City, CA 91604",1399000,3,2.0,1200,20032553,FOR_SALE,House for sale
+"1653 Vista Oaks Way, Thousand Oaks, CA 91361",2995000,5,6.0,5110,16471449,FOR_SALE,House for sale
+"25273 Avenida Dorena, Santa Clarita, CA 91321",519000,2,2.0,1145,20201709,FOR_SALE,House for sale
+"9323 Marina Pacifica Dr N, Long Beach, CA 90803",695000,1,1.0,926,21214905,FOR_SALE,Condo for sale
+"3431 Lambeth St, Los Angeles, CA 90027",3395000,4,4.0,3341,20811481,FOR_SALE,House for sale
+"6139 Rugby Ave, Huntington Park, CA 90255",698888,12,9.0,2126,21073181,FOR_SALE,Multi-family home for sale
+"9667 Durham Dr, Huntington Beach, CA 92646",699800,3,2.0,1100,25278589,FOR_SALE,House for sale
+"1734 Van Horne Ln, Redondo Beach, CA 90278",1595000,4,2.0,1758,20409873,FOR_SALE,House for sale
+"526 Nottingham Ave, Santa Ana, CA 92703",725000,4,2.0,1248,25093948,FOR_SALE,House for sale
+"666 Pearlanna Dr, San Dimas, CA 91773",750000,3,2.0,1424,21529947,FOR_SALE,House for sale
+"369 N Via Remo, Anaheim, CA 92806",675000,3,2.0,1266,25344544,FOR_SALE,House for sale
+"27809 Blue Sky Ln, Santa Clarita, CA 91351",285000,3,2.0,1482,136710136,FOR_SALE,Home for sale
+"2516 N Tustin Ave #A, Santa Ana, CA 92705",290000,2,2.0,1283,2140807137,FOR_SALE,Condo for sale
+"1209 S Helberta Ave, Redondo Beach, CA 90277",1430000,2,1.0,1128,21323435,FOR_SALE,House for sale
+"15009 Los Lotes Ave, Whittier, CA 90605",2400000,4,3.0,2710,21431585,FOR_SALE,House for sale
+"820 N Vista St, Los Angeles, CA 90046",4995000,5,6.0,5455,20785028,FOR_SALE,House for sale
+"912 W Service Ave, West Covina, CA 91790",725000,2,1.0,936,21567971,FOR_SALE,House for sale
+"11518 1st Ave, Whittier, CA 90604",865000,3,2.0,1260,21382131,FOR_SALE,House for sale
+"244 E Newburgh St, Glendora, CA 91740",798000,4,2.0,1362,21641702,FOR_SALE,House for sale
+"2336 Elden Apt Ave #A, Costa Mesa, CA 92627",1095000,2,3.0,1550,456947971,FOR_SALE,House for sale
+"19849 Collins Rd, Santa Clarita, CA 91351",690000,3,2.0,1172,20209857,FOR_SALE,House for sale
+"9665 Longden Ave, Temple City, CA 91780",998000,3,3.0,1462,20732417,FOR_SALE,House for sale
+"1405 N McDivitt Ave, Compton, CA 90221",349000,2,1.0,1115,21008494,FOR_SALE,House for sale
+"2035 N Grandee Ave, Compton, CA 90222",480000,3,1.0,572,20998616,FOR_SALE,House for sale
+"480 Plymouth Rd, San Marino, CA 91108",1438000,3,2.0,1306,20698889,FOR_SALE,House for sale
+"519 Turnbury St, Simi Valley, CA 93065",1749000,5,4.0,3404,16435488,FOR_SALE,House for sale
+"1211 E Leigh Ct, Long Beach, CA 90806",599000,3,2.0,2000,21197291,FOR_SALE,House for sale
+"2719 Cincinnati St, Los Angeles, CA 90033",649900,4,2.0,1746,20630372,FOR_SALE,Multi-family home for sale
+"2911 Antelo View Dr, Los Angeles, CA 90077",35500000,9,14.0,15360,20530837,FOR_SALE,House for sale
+"3640 Pine Ave, Long Beach, CA 90807",1549000,5,4.0,3232,21162210,FOR_SALE,House for sale
+"3231 Cheviot Vista Pl APT 307, Los Angeles, CA 90034",615000,3,2.0,1193,20496768,FOR_SALE,Condo for sale
+"23777 Mulholland Hwy #118, Malibu, CA 90265",299000,4,4.0,1750,454961428,FOR_SALE,Home for sale
+"929 E Foothill Blvd SPC 161, Upland, CA 91786",317000,4,2.0,2040,145574597,FOR_SALE,Home for sale
+"2614 Mary St, La Crescenta, CA 91214",1375000,3,2.0,1483,20898859,FOR_SALE,House for sale
+"1145 Sano Ct, Arcadia, CA 91007",3380000,4,5.0,4650,20889755,FOR_SALE,House for sale
+"2463 Valhalla St, Pomona, CA 91767",675000,3,1.0,1028,21503563,FOR_SALE,House for sale
+"1732 Newport Ave, Pasadena, CA 91103",1099000,4,2.0,1420,20907959,FOR_SALE,House for sale
+"411 S Hewes St, Orange, CA 92869",789000,4,2.0,1160,25439232,FOR_SALE,House for sale
+"13631 Fielding Dr, Tustin, CA 92780",1299900,4,3.0,2150,25505862,FOR_SALE,House for sale
+"17158 Palisades Cir, Pacific Palisades, CA 90272",1349000,3,3.0,1830,20547783,FOR_SALE,Condo for sale
+"5219 Lathrop St, Los Angeles, CA 90032",900000,3,2.0,1221,20691244,FOR_SALE,House for sale
+"267 E Monterey Ave, Pomona, CA 91767",375000,2,1.0,964,21512151,FOR_SALE,House for sale
+"1432 Kellam Ave, Los Angeles, CA 90026",3295000,6,5.0,4179,20740128,FOR_SALE,House for sale
+"3107 N San Gabriel Blvd SPACE 7, Rosemead, CA 91770",240000,3,2.0,1000,136695325,FOR_SALE,Home for sale
+"18718 Delight St, Santa Clarita, CA 91351",715000,4,2.0,1260,20185823,FOR_SALE,House for sale
+"13561 Valerio St UNIT A, Los Angeles, CA 91405",615000,3,3.0,1325,20007076,FOR_SALE,Condo for sale
+"3722 Gurrier Ave, Acton, CA 93510",799000,3,2.0,1928,20311781,FOR_SALE,House for sale
+"4711 Deseret Dr, Woodland Hills, CA 91364",1275000,3,2.0,2544,19899034,FOR_SALE,House for sale
+"110 W Maple St UNIT 2, Glendale, CA 91204",499999,1,1.0,736,20832694,FOR_SALE,Condo for sale
+"2304 Donella Cir, Los Angeles, CA 90077",18500000,8,11.0,11500,20531011,FOR_SALE,House for sale
+"5512 Paseo Del Lago W APT C, Laguna Woods, CA 92637",1185000,2,2.0,2096,25715051,FOR_SALE,Townhouse for sale
+"510 Catalina Dr, Newport Beach, CA 92663",6435000,5,5.0,3990,25467458,FOR_SALE,New construction
+"13876 Gavina Ave, Sylmar, CA 91342",715000,3,2.0,1292,20103030,FOR_SALE,House for sale
+"4852 Cabana Dr APT 202, Huntington Beach, CA 92649",579999,3,2.0,1272,25740474,FOR_SALE,Condo for sale
+"8250 Lankershim Blvd #192, North Hollywood, CA 91605",189950,3,2.0,768,447141172,FOR_SALE,Home for sale
+"1851 N Stanley Ave, Los Angeles, CA 90046",36800000,6,10.0,13000,20795085,FOR_SALE,House for sale
+"100 E Virginia Ter, Santa Paula, CA 93060",509000,3,3.0,1682,16342143,FOR_SALE,Condo for sale
+"20851 Community St APT 10, Winnetka, CA 91306",550000,3,3.0,1460,20179952,FOR_SALE,Townhouse for sale
+"1665 Avenida Soltura, Camarillo, CA 93010",1179000,4,2.0,1832,16362984,FOR_SALE,House for sale
+"684 Firth Ave, Los Angeles, CA 90049",39995000,6,10.0,0,20547119,FOR_SALE,House for sale
+"830 Harrington Rd, Glendale, CA 91207",3499000,3,4.0,3617,95638585,FOR_SALE,New construction
+"1156 Steuben St, Pasadena, CA 91106",1015000,10,,3164,20868399,FOR_SALE,Multi-family home for sale
+"10431 Las Lunitas Ave, Tujunga, CA 91042",798000,3,2.0,1270,20098584,FOR_SALE,House for sale
+"12700 Elliott Ave SPACE 15, El Monte, CA 91732",79900,2,2.0,960,339398685,FOR_SALE,New construction
+"4128 Kenyon Ave, Los Angeles, CA 90066",2345000,3,3.0,1991,20446425,FOR_SALE,House for sale
+"1 Buckeye, Irvine, CA 92604",1299800,3,3.0,1737,25486205,FOR_SALE,House for sale
+"13691 Gavina Ave UNIT 480, Sylmar, CA 91342",360000,4,3.0,2125,136709595,FOR_SALE,Home for sale
+"19554 Wells Dr, Tarzana, CA 91356",3750000,5,6.0,5119,19946416,FOR_SALE,House for sale
+"801 S Grand Ave APT 2208, Los Angeles, CA 90017",859000,2,2.0,1220,67420708,FOR_SALE,Condo for sale
+"1012 Superba Ave, Venice, CA 90291",1895000,2,2.0,1484,20452747,FOR_SALE,House for sale
+"17862 Antherium Way, Chino Hills, CA 91709",898000,3,3.0,1958,17563187,FOR_SALE,House for sale
+"1373 Calle Crisantemo, Thousand Oaks, CA 91360",695000,3,1.0,979,16480425,FOR_SALE,House for sale
+"3202 E Chevy Chase Dr, Glendale, CA 91206",1399000,3,2.0,1713,20841970,FOR_SALE,House for sale
+"3620 Fullmoon Dr, Glendale, CA 91206",1480000,3,3.0,2300,20841816,FOR_SALE,House for sale
+"2930 Sweetwater Mesa Rd, Malibu, CA 90265",38000000,6,11.0,10057,447182140,FOR_SALE,New construction
+"18289 Iris Ln, Yorba Linda, CA 92886",4100,3,4.0,1719,325863896,FOR_SALE,Condo for sale
+"8512 Tuscany Ave APT 207, Playa Del Rey, CA 90293",799000,2,2.0,1140,20388335,FOR_SALE,Condo for sale
+"501 Gerona Ave, San Gabriel, CA 91775",1150000,2,2.0,1632,20722187,FOR_SALE,House for sale
+"1109 W 21st St, Santa Ana, CA 92706",1425000,3,2.0,1912,25089302,FOR_SALE,House for sale
+"8331 Vista Del Rosa St, Downey, CA 90240",799000,3,2.0,1629,21093879,FOR_SALE,House for sale
+"859 Woodacres Rd, Santa Monica, CA 90402",110000000,6,6.0,12240,20477302,FOR_SALE,House for sale
+"2499 Springbrook St, Thousand Oaks, CA 91362",1698000,4,5.0,3566,52465909,FOR_SALE,House for sale
+"20 S Vega St, Alhambra, CA 91801",649900,2,1.0,768,20709658,FOR_SALE,House for sale
+"69 Tarocco, Irvine, CA 92618",799999,3,2.0,1192,25717168,FOR_SALE,Condo for sale
+"2233 Mountain View Dr, Corona, CA 92882",649000,3,2.0,1920,17761259,FOR_SALE,House for sale
+"13006 Jefferson Ave, Hawthorne, CA 90250",699900,4,2.0,1308,20350321,FOR_SALE,House for sale
+"4715 Fir St, Pico Rivera, CA 90660",699800,3,2.0,1025,21096353,FOR_SALE,House for sale
+"320 N Park Vis UNIT 30, Anaheim, CA 92806",179999,4,2.0,1440,2070035194,FOR_SALE,Home for sale
+"838 N Mansfield Ave #102, Los Angeles, CA 90038",699000,1,1.0,880,338341644,FOR_SALE,Condo for sale
+"1550 Rory Ln SPACE 234, Simi Valley, CA 93063",238500,4,2.0,1760,16505136,FOR_SALE,Home for sale
+"536 N Arden Blvd, Los Angeles, CA 90004",3995000,4,5.0,4270,20782682,FOR_SALE,House for sale
+"10642 Samoa Ave, Tujunga, CA 91042",689000,2,1.0,1171,20099180,FOR_SALE,House for sale
+"5514 Goss Canyon Ave, La Crescenta, CA 91214",1750000,4,3.0,2019,20925720,FOR_SALE,For sale by owner
+"802 S Olive Ave, Alhambra, CA 91803",749900,3,2.0,908,20712365,FOR_SALE,House for sale
+"301 E Foothill Blvd SPACE 63, Pomona, CA 91767",152500,2,2.0,840,136703898,FOR_SALE,Home for sale
+"24637 Trevino Dr, Santa Clarita, CA 91355",589900,3,3.0,1217,20218788,FOR_SALE,House for sale
+"118 Abacus, Irvine, CA 92618",1399900,3,4.0,2031,345328533,FOR_SALE,Condo for sale
+"8333 Vineyard Ave UNIT 4, Rancho Cucamonga, CA 91730",399000,2,2.0,882,17299101,FOR_SALE,Condo for sale
+"3000 Persimmon Pl, Fullerton, CA 92835",895000,3,2.0,1617,25351456,FOR_SALE,House for sale
+"555 Maine Ave UNIT 101, Long Beach, CA 90802",499000,2,2.0,996,21239102,FOR_SALE,Condo for sale
+"2421 S Cloverdale Ave, Los Angeles, CA 90016",699000,6,4.0,1916,20597009,FOR_SALE,House for sale
+"5593 San Jose St, Montclair, CA 91763",575000,3,2.0,1296,17520047,FOR_SALE,House for sale
+"1223 19th St, Hermosa Beach, CA 90254",1699000,3,2.0,1498,20425388,FOR_SALE,House for sale
+"10141 McClemont Ave, Tujunga, CA 91042",650000,2,2.0,900,20095818,FOR_SALE,House for sale
+"16017 Red Coach Ln, Whittier, CA 90604",859900,4,2.0,1771,21382026,FOR_SALE,House for sale
+"5831 E Tumbleweed Dr, Orange, CA 92869",1050000,3,3.0,1516,25770981,FOR_SALE,House for sale
+"14560 Purdue Ave, Chino, CA 91710",599000,3,3.0,1724,82922749,FOR_SALE,House for sale
+"7809 McConnell Ave, Los Angeles, CA 90045",1699000,3,3.0,1692,20383447,FOR_SALE,House for sale
+"3831 Fernwood Ave, Los Angeles, CA 90027",1195000,2,3.0,1118,20747119,FOR_SALE,House for sale
+"1512 Glendon Ave, Los Angeles, CA 90024",2390000,4,2.0,2193,20505369,FOR_SALE,House for sale
+"4418 Avenida Del Este, Yorba Linda, CA 92886",1050000,4,2.0,1578,25393183,FOR_SALE,House for sale
+"826 Greenway Dr, Beverly Hills, CA 90210",42000000,5,11.0,13678,20521927,FOR_SALE,House for sale
+"1270 Tropical Ave, Pasadena, CA 91107",1199000,3,2.0,1636,20881321,FOR_SALE,House for sale
+"2049 Wickshire Ave, Hacienda Heights, CA 91745",949900,4,2.0,1502,21458079,FOR_SALE,House for sale
+"2555 La Mesa Dr, Santa Monica, CA 90402",24998000,5,8.0,,20538848,FOR_SALE,House for sale
+"20203 Tillman Ave, Carson, CA 90746",539000,3,2.0,1612,21284905,FOR_SALE,Auction
+"962 E Citrus Edge St, Azusa, CA 91702",699000,4,2.0,1444,21634760,FOR_SALE,House for sale
+"8229 S Mariposa Ave, Los Angeles, CA 90044",799000,3,2.0,1254,20947208,FOR_SALE,House for sale
+"1040 E Brenner Pl, Long Beach, CA 90813",450000,2,1.0,540,21233081,FOR_SALE,House for sale
+"263 E 21st St, Costa Mesa, CA 92627",1499900,3,2.0,1440,25470320,FOR_SALE,House for sale
+"3448 Ardilla Ave, Baldwin Park, CA 91706",788000,4,2.0,1484,21561451,FOR_SALE,House for sale
+"755 W Colorado Blvd, Monrovia, CA 91016",550000,4,2.0,1742,456310997,FOR_SALE,House for sale
+"900 E Santa Anita Ave, Burbank, CA 91501",1495000,3,2.0,1739,20054687,FOR_SALE,House for sale
+"3400 E Janice St, Long Beach, CA 90805",820000,4,2.0,1200,21149748,FOR_SALE,House for sale
+"10456 Almayo Ave, Los Angeles, CA 90064",4495000,5,6.0,3700,20496957,FOR_SALE,House for sale
+"22292 Silent Brk, Lake Forest, CA 92630",1100000,3,2.0,1499,25527805,FOR_SALE,House for sale
+"5450 N Paramount Blvd SPACE 12, Long Beach, CA 90805",129000,3,2.0,,136700093,FOR_SALE,Home for sale
+"9904 Kip Dr, Beverly Hills, CA 90210",79000000,10,22.0,24757,20523467,FOR_SALE,House for sale
+"7017 Senalda Rd, Los Angeles, CA 90068",15000000,10,11.0,11000,20803620,FOR_SALE,House for sale
+"13080 Dronfield Ave UNIT 58, Sylmar, CA 91342",399000,3,2.0,1078,20073324,FOR_SALE,Condo for sale
+"18361 Delaware St, Huntington Beach, CA 92648",1249900,4,2.0,1272,25287626,FOR_SALE,House for sale
+"460 Golden Ave UNIT 209, Long Beach, CA 90802",385000,1,1.0,495,21239658,FOR_SALE,Condo for sale
+"5042 Carolyn Way, Glendale, CA 91214",1295000,3,2.0,1454,20813076,FOR_SALE,House for sale
+"11250 Ramona Ave SPACE 216, Montclair, CA 91763",299900,3,2.0,1440,69015086,FOR_SALE,Home for sale
+"3922 Princeton St, Los Angeles, CA 90023",799999,5,3.0,1507,20651931,FOR_SALE,Multi-family home for sale
+"917 S Sutter Creek Rd #46, Anaheim, CA 92804",280000,2,2.0,1224,25677078,FOR_SALE,Condo for sale
+"1850 W Orangethorpe Ave SPC 24, Fullerton, CA 92833",75000,3,1.0,,2133081724,FOR_SALE,Home for sale
+"1427 Abelia, Irvine, CA 92606",600000,2,2.0,1261,79813388,FOR_SALE,Condo for sale
+"15621 Beach Blvd SPACE 108, Westminster, CA 92683",168000,3,2.0,950,59729040,FOR_SALE,Home for sale
+"696 S Saint John Ave, Pasadena, CA 91105",1450000,4,2.0,3560,250338590,FOR_SALE,House for sale
+"2218-2218 254th St, Lomita, CA 90717",1150000,4,3.0,2593,457047658,FOR_SALE,House for sale
+"9505 Gloaming Dr, Beverly Hills, CA 90210",126000000,8,20.0,30610,2054444989,FOR_SALE,House for sale
+"11852 Lemay St, North Hollywood, CA 91606",799000,3,2.0,1432,20004414,FOR_SALE,House for sale
+"615-615 W Romneya Dr, Anaheim, CA 92801",199900,3,2.0,1176,457047591,FOR_SALE,Home for sale
+"191 Rockrose Ln, Oak Park, CA 91377",919900,4,3.0,2090,443963672,FOR_SALE,House for sale
+"11052 Faye Ave, Garden Grove, CA 92840",875000,3,2.0,1595,25171857,FOR_SALE,Foreclosure
+"404 Brighton Spgs, Costa Mesa, CA 92627",475000,2,2.0,1282,25742362,FOR_SALE,Condo for sale
+"13330 Del Monte Dr APT 10R, Seal Beach, CA 90740",329997,2,2.0,1200,456975358,FOR_SALE,Condo for sale
+"12818 Duffield Ave, La Mirada, CA 90638",775000,4,2.0,1110,21389437,FOR_SALE,House for sale
+"19 E Platt St, Long Beach, CA 90805",540000,3,2.0,859,21155950,FOR_SALE,House for sale
+"5460 White Oak Ave UNIT F303, Encino, CA 91316",264900,1,2.0,712,19978912,FOR_SALE,Condo for sale
+"9966 Beverly Grove Dr, Beverly Hills, CA 90210",77500000,6,13.0,15700,119920526,FOR_SALE,House for sale
+"19931 Lorne St, Winnetka, CA 91306",799000,3,2.0,1627,19907408,FOR_SALE,House for sale
+"16 Silver Saddle Ln, Rolling Hills, CA 90274",2399000,3,2.0,2198,21358323,FOR_SALE,House for sale
+"1855 E Riverside Dr SPC 415, Ontario, CA 91761",79000,3,2.0,0,82920716,FOR_SALE,Home for sale
+"9080 Bloomfield Ave SPACE 11, Cypress, CA 90630",220000,3,2.0,1635,63116920,FOR_SALE,Home for sale
+"950 Forestdale Ave, Glendora, CA 91740",750000,3,1.0,1080,21636510,FOR_SALE,House for sale
+"11670 W Sunset Blvd APT 209, Los Angeles, CA 90049",595000,2,2.0,896,20536359,FOR_SALE,Condo for sale
+"247 Sinclair Ave, Upland, CA 91786",399000,2,1.0,957,17521445,FOR_SALE,Condo for sale
+"7305 Pyramid Pl, Los Angeles, CA 90046",17888000,7,9.0,9200,95637520,FOR_SALE,House for sale
+"6061 Killarney Ave, Garden Grove, CA 92845",1050000,4,2.0,1395,25230719,FOR_SALE,House for sale
+"5400 Simpson Ave APT 9, Valley Village, CA 91607",650000,3,3.0,1356,20017473,FOR_SALE,Townhouse for sale
+"2049 Via Mariposa E UNIT C, Laguna Woods, CA 92637",289000,1,1.0,675,2107069790,FOR_SALE,Condo for sale
+"23161 Bouquet Cyn, Mission Viejo, CA 92692",1879000,4,3.0,2836,25615660,FOR_SALE,House for sale
+"20854 Runnymede St, Winnetka, CA 91306",799999,4,2.0,1303,19912183,FOR_SALE,House for sale
+"1529 W 96th St, Los Angeles, CA 90047",440000,2,1.0,1084,20961697,FOR_SALE,House for sale
+"10697 Somma Way, Los Angeles, CA 90077",59000000,8,21.0,41000,20529397,FOR_SALE,House for sale
+"23500 The Old Rd SPACE 35, Newhall, CA 91321",159000,3,2.0,1504,136694522,FOR_SALE,Home for sale
+"2188 Ponet Dr, Los Angeles, CA 90068",21500000,10,12.0,8964,20808541,FOR_SALE,House for sale
+"11435 Tampa Ave UNIT 95, Porter Ranch, CA 91326",699000,4,3.0,1637,20154762,FOR_SALE,Townhouse for sale
+"26004 Trana Cir, Calabasas, CA 91302",1425000,4,3.0,2472,19885684,FOR_SALE,House for sale
+"3954 Wakefield Ave, Chino, CA 91710",730000,4,2.0,1272,17538502,FOR_SALE,House for sale
+"80 Huntington St SPACE 707, Huntington Beach, CA 92648",84500,2,2.0,1040,402044864,FOR_SALE,Home for sale
+"8104 Davista Dr, Whittier, CA 90602",1189000,3,2.0,1859,21490327,FOR_SALE,House for sale
+"5275 E 25th St, Long Beach, CA 90815",1049900,3,2.0,1412,21202535,FOR_SALE,House for sale
+"11433 214th St, Lakewood, CA 90715",899000,3,2.0,1692,21130930,FOR_SALE,House for sale
+"3839 Fountain Ave, Los Angeles, CA 90029",695000,3,2.0,1500,20747145,FOR_SALE,Multi-family home for sale
+"234 Lime Ave APT A, Long Beach, CA 90802",349000,2,1.0,770,21240829,FOR_SALE,Condo for sale
+"1855 E Riverside Dr SPACE 245, Ontario, CA 91761",159900,4,2.0,1662,82896370,FOR_SALE,Home for sale
+"6010 Linden Ave, Long Beach, CA 90805",749900,2,1.0,816,21152200,FOR_SALE,House for sale
+"9006 Thrasher Ave, Los Angeles, CA 90069",72500000,7,9.0,13400,20799174,FOR_SALE,House for sale
+"18593 Fieldbrook St, Rowland Heights, CA 91748",885000,3,2.0,1202,21482060,FOR_SALE,House for sale
+"601 S Ford Blvd, Los Angeles, CA 90022",499950,2,1.0,624,20655883,FOR_SALE,House for sale
+"2317 Walgrove Ave, Los Angeles, CA 90066",1995000,4,3.0,1558,20453375,FOR_SALE,House for sale
+"27829 Sunrise Ln, Santa Clarita, CA 91351",295000,3,2.0,1752,136710145,FOR_SALE,Home for sale
+"17794 Palo Verde Ave, Cerritos, CA 90703",599000,3,3.0,1235,21119750,FOR_SALE,Townhouse for sale
+"198 N Skyline Dr SPACE 52, Thousand Oaks, CA 91362",299999,3,2.0,1248,16504240,FOR_SALE,Home for sale
+"3050 Ball Rd #200, Anaheim, CA 92804",299000,3,2.0,1814,455036499,FOR_SALE,Home for sale
+"1918 11th St APT D, Santa Monica, CA 90404",799000,2,2.0,923,51582406,FOR_SALE,Condo for sale
+"6079 Cedar St, Simi Valley, CA 93063",599950,3,2.0,1248,16463405,FOR_SALE,Home for sale
+"4657 Fisher St, Los Angeles, CA 90022",605000,3,2.0,956,20650160,FOR_SALE,House for sale
+"6240 Mulholland Hwy, Los Angeles, CA 90068",1499000,3,4.0,2013,20806432,FOR_SALE,House for sale
+"3319 Tareco Dr, Los Angeles, CA 90068",2800000,2,2.0,1129,20805591,FOR_SALE,House for sale
+"9214 Nightingale Dr, Los Angeles, CA 90069",63000000,5,7.0,13870,2107527769,FOR_SALE,House for sale
+"4739 N Conwell Ave, Covina, CA 91722",750000,4,2.0,1196,21544103,FOR_SALE,House for sale
+"4600 Don Lorenzo Dr APT 4, Los Angeles, CA 90008",749000,2,3.0,1151,61361650,FOR_SALE,Townhouse for sale
+"1440 Betty St, Wrightwood, CA 92397",240000,2,1.0,920,17425802,FOR_SALE,House for sale
+"837 Venice Blvd, Venice, CA 90291",1398000,3,3.0,1804,20452559,FOR_SALE,House for sale
+"4900 E Chapman Ave UNIT 4, Orange, CA 92869",575000,2,2.0,1092,25438342,FOR_SALE,Townhouse for sale
+"7021 Alondra Blvd APT 7, Paramount, CA 90723",529500,2,2.0,1180,21043853,FOR_SALE,Condo for sale
+"1395 N Doheny Dr, Los Angeles, CA 90069",19500000,6,9.0,10350,20534824,FOR_SALE,House for sale
+"8314 Manzanar Ave, Pico Rivera, CA 90660",699000,3,2.0,1563,21094398,FOR_SALE,House for sale
+"3564 Multiview Dr, Los Angeles, CA 90068",1895000,3,3.0,2403,20044931,FOR_SALE,House for sale
+"1012 Temple Ave, Long Beach, CA 90804",649000,2,2.0,768,21225836,FOR_SALE,House for sale
+"3032 Ostrom Ave, Long Beach, CA 90808",989000,3,2.0,1372,21141385,FOR_SALE,House for sale
+"497 El Molino Ave #102, Pasadena, CA 91101",499000,2,2.0,968,20867926,FOR_SALE,Condo for sale
+"8220 Kentland Ave, Canoga Park, CA 91304",850000,3,2.0,1370,51578513,FOR_SALE,House for sale
+"2707 S Del Norte Ave, Ontario, CA 91761",738000,4,2.0,1733,17303252,FOR_SALE,House for sale
+"729 S Hobart Blvd APT 19, Los Angeles, CA 90005",499000,2,2.0,1109,20612170,FOR_SALE,Condo for sale
+"218 Madeline Dr, Pasadena, CA 91105",1300000,4,3.0,2356,250338614,FOR_SALE,House for sale
+"26502 Rock Creek Dr, Santa Clarita, CA 91354",599000,3,3.0,1219,20197147,FOR_SALE,Townhouse for sale
+"426 N Avenue 64, Los Angeles, CA 90042",995000,4,3.0,1990,20773016,FOR_SALE,House for sale
+"8231 Comolette St, Downey, CA 90242",794998,3,2.0,1336,21053721,FOR_SALE,House for sale
+"1201 Belmont Ave APT 303, Long Beach, CA 90804",399000,2,2.0,640,82582536,FOR_SALE,Condo for sale
+"20931 Judah Ln #35, Newhall, CA 91321",535000,2,3.0,1243,455796893,FOR_SALE,Townhouse for sale
+"357 Cornwell St, Los Angeles, CA 90033",1495000,6,8.0,3600,20629355,FOR_SALE,Multi-family home for sale
+"17220 Rinaldi St, Granada Hills, CA 91344",935000,4,2.0,1346,20154273,FOR_SALE,House for sale
+"1791 Sitka Ave, Simi Valley, CA 93063",685000,3,2.0,1233,16446494,FOR_SALE,House for sale
+"8223 Garden Grove Ave, Reseda, CA 91335",899999,4,2.0,1540,19903738,FOR_SALE,House for sale
+"3964 Greenwood St, Thousand Oaks, CA 91320",895000,4,2.0,1862,16472255,FOR_SALE,House for sale
+"500 Museum Dr, Los Angeles, CA 90065",644900,2,1.0,784,20761054,FOR_SALE,Foreclosure
+"524 Marlborough Ave, Inglewood, CA 90302",499999,2,1.0,634,20332640,FOR_SALE,House for sale
+"7237 Anatola Ave, Van Nuys, CA 91406",699000,3,1.0,1192,19964819,FOR_SALE,House for sale
+"23701 S Western Ave SPACE 221, Torrance, CA 90501",85000,2,2.0,1140,136700517,FOR_SALE,Home for sale
+"514 Indiana Ct, South Pasadena, CA 91030",1498000,3,2.0,1986,20693255,FOR_SALE,House for sale
+"27231 Cabrera Ave, Santa Clarita, CA 91350",699990,4,2.0,1376,20191046,FOR_SALE,House for sale
+"2660 Tumbleweed Ave, Simi Valley, CA 93065",720000,3,2.0,1153,16439876,FOR_SALE,House for sale
+"556 D St, Upland, CA 91786",555000,3,3.0,1464,457169018,FOR_SALE,House for sale
+"10917 Foster Rd, Norwalk, CA 90650",795000,3,2.0,1041,21392728,FOR_SALE,House for sale
+"24105 Hidden Ridge Rd, Hidden Hills, CA 91302",30900000,6,10.0,21670,119677212,FOR_SALE,New construction
+"1225 E Walnut Ave, Glendora, CA 91741",875000,3,2.0,1888,21646614,FOR_SALE,House for sale
+"27706 Kristin Ln, Santa Clarita, CA 91350",800000,3,3.0,1632,20190613,FOR_SALE,House for sale
+"6147 Colfax Ave, North Hollywood, CA 91606",1299999,4,3.0,2019,20010222,FOR_SALE,House for sale
+"2305 Bonnie Brae Ave, Claremont, CA 91711",1850000,5,3.0,2721,21655214,FOR_SALE,House for sale
+"2755 Arrow Hwy SPC 25, La Verne, CA 91750",179999,3,2.0,1258,2084454928,FOR_SALE,Home for sale
+"1006 N Rexford Dr, Beverly Hills, CA 90210",34900000,7,9.0,12220,20522557,FOR_SALE,House for sale
+"15053 Granada Ave, La Mirada, CA 90638",869900,3,2.0,1198,21386682,FOR_SALE,House for sale
+"960 Calle Margarita, Thousand Oaks, CA 91360",725000,3,1.0,932,16480706,FOR_SALE,House for sale
+"16512 Blackbeard Ln APT 200, Huntington Beach, CA 92649",589999,3,2.0,1272,25740375,FOR_SALE,Condo for sale
+"27326 Oak Summit Rd, Agoura Hills, CA 91301",899900,3,3.0,2444,19895009,FOR_SALE,House for sale
+"6408 Perry Rd, Bell Gardens, CA 90201",599900,3,1.0,1178,21089455,FOR_SALE,House for sale
+"5451 W 117th St, Inglewood, CA 90304",799000,3,2.0,1677,20398127,FOR_SALE,House for sale
+"23601 Golden Springs Dr, Diamond Bar, CA 91765",389000,2,2.0,949,119938500,FOR_SALE,Condo for sale
+"1101 Bel Air Pl, Los Angeles, CA 90077",55000000,5,17.0,24920,82882486,FOR_SALE,House for sale
+"2351 Argonne Ave, Long Beach, CA 90815",925000,3,2.0,1197,21202361,FOR_SALE,House for sale
+"410 Trousdale Pl, Beverly Hills, CA 90210",64995000,5,9.0,18344,20534468,FOR_SALE,House for sale
+"327 Nectarine St, Inglewood, CA 90301",689000,3,2.0,1156,20335999,FOR_SALE,House for sale
+"508 N Imperial Ave APT A, Ontario, CA 91764",455000,3,2.0,1238,2114514174,FOR_SALE,Condo for sale
+"1601 Fair Park Ave, Los Angeles, CA 90041",170000,4,4.0,0,2064342670,FOR_SALE,Multi-family home for sale
+"7134 Stansbury Ave, Van Nuys, CA 91405",775000,3,2.0,1629,19959499,FOR_SALE,House for sale
+"2319 Magnolia Ave, Long Beach, CA 90806",988800,3,2.0,1214,21192477,FOR_SALE,House for sale
+"2275 W 25th St SPACE 166, San Pedro, CA 90732",450000,2,2.0,2350,442370044,FOR_SALE,Home for sale
+"1617 Wayne Ave, South Pasadena, CA 91030",1598000,3,2.0,1259,20697170,FOR_SALE,House for sale
+"735 Francesca Dr UNIT 202, Walnut, CA 91789",450000,2,2.0,1030,66674945,FOR_SALE,Condo for sale
+"15410 Elm Ln, Chino Hills, CA 91709",868000,3,2.0,1481,17541474,FOR_SALE,House for sale
+"25365 Prado De La Felicidad, Calabasas, CA 91302",27750000,7,10.0,16850,95676508,FOR_SALE,House for sale
+"4836 Edison St, Los Angeles, CA 90032",489000,1,1.0,520,20639065,FOR_SALE,House for sale
+"1200 S Pasadena Ave, Pasadena, CA 91105",1250000,3,3.0,2018,61361756,FOR_SALE,House for sale
+"8383 Wyndham Rd, Los Angeles, CA 90046",1799000,3,4.0,2550,20801562,FOR_SALE,House for sale
+"31837 41st St W, Acton, CA 93510",799000,3,2.0,1974,20311665,FOR_SALE,House for sale
+"2729 Nichols Canyon Rd, Los Angeles, CA 90046",5795000,4,5.0,4978,20802524,FOR_SALE,House for sale
+"5550 Fallbrook Ave, Woodland Hills, CA 91367",950000,3,2.0,1660,19878043,FOR_SALE,House for sale
+"23652 Algiers St, Mission Viejo, CA 92691",1500000,4,3.0,2580,25539187,FOR_SALE,House for sale
+"327 E 11th St, Upland, CA 91786",710900,3,2.0,1169,17570037,FOR_SALE,House for sale
+"1221 N Grove Ave, Upland, CA 91786",725000,4,2.0,1501,17569319,FOR_SALE,House for sale
+"7961 Day St, Sunland, CA 91040",649000,3,2.0,1480,20096484,FOR_SALE,House for sale
+"2100 Stratford Cir, Los Angeles, CA 90077",39900000,8,12.0,17254,95552407,FOR_SALE,House for sale
+"2085 Oregon Ave, Long Beach, CA 90806",898900,3,1.0,1110,21192797,FOR_SALE,House for sale
+"24112 La Rosa Dr, Lake Forest, CA 92630",1150000,4,2.0,1221,25536035,FOR_SALE,House for sale
+"17902 Lucero Way, Tustin, CA 92780",1498000,4,3.0,2146,25448238,FOR_SALE,House for sale
+"20022 Pineville Ct #56, Yorba Linda, CA 92886",859000,4,2.0,1302,25685813,FOR_SALE,House for sale
+"23555 Lloyd Houghton Pl, Santa Clarita, CA 91321",799999,3,2.0,1688,20207236,FOR_SALE,House for sale
+"2810 Granville Ave, Los Angeles, CA 90064",2188000,3,3.0,2294,20463000,FOR_SALE,House for sale
+"24001 Muirlands Blvd SPACE 329, Lake Forest, CA 92630",389900,2,2.0,1440,61645966,FOR_SALE,Home for sale
+"13303 E Avenue W6, Pearblossom, CA 93553",375000,3,2.0,1239,20261689,FOR_SALE,House for sale
+"20111 Marina Ln, Huntington Beach, CA 92646",1250000,3,2.0,1200,25272965,FOR_SALE,House for sale
+"2311 Alto Oak Dr, Los Angeles, CA 90068",7800000,4,6.0,5313,456879221,FOR_SALE,House for sale
+"10350 Harvest Ave, Santa Fe Springs, CA 90670",739000,3,2.0,1295,21369314,FOR_SALE,House for sale
+"4365 O'Neill St, Los Angeles, CA 90032",695000,2,3.0,1230,20639800,FOR_SALE,House for sale
+"915 E 3rd St, Pomona, CA 91766",599900,6,6.0,904,21511603,FOR_SALE,Multi-family home for sale
+"3783 Colonial Ave, Los Angeles, CA 90066",1450000,3,3.0,1053,20455790,FOR_SALE,House for sale
+"26752 Carretas Dr, Mission Viejo, CA 92691",1399800,3,3.0,2103,25610389,FOR_SALE,House for sale
+"819 S Cochran Ave, Los Angeles, CA 90036",2750000,5,5.0,3818,20610474,FOR_SALE,House for sale
+"19802 Holly Dr, Santa Clarita, CA 91350",879000,4,3.0,2362,113105001,FOR_SALE,House for sale
+"115 Remington, Irvine, CA 92620",750000,2,3.0,1016,2109724718,FOR_SALE,Condo for sale
+"1620 W El Portal Dr, La Habra, CA 90631",875000,3,2.0,1507,25102990,FOR_SALE,House for sale
+"14426 Piuma Ave, Norwalk, CA 90650",689000,3,1.0,1179,21404369,FOR_SALE,House for sale
+"860 Old Topanga Canyon Rd, Topanga, CA 90290",999000,3,3.0,1700,20549598,FOR_SALE,House for sale
+"21324 Balsam Ln, Lake Forest, CA 92630",725000,2,2.0,1022,349015856,FOR_SALE,Condo for sale
+"3657 Country Club Dr UNIT E, Long Beach, CA 90807",540000,2,2.0,1221,21162555,FOR_SALE,Condo for sale
+"528-530 W 19th St, San Pedro, CA 90731",649000,4,4.0,1342,454842933,FOR_SALE,Multi-family home for sale
+"111 Linda Vis, Irvine, CA 92618",2049000,2,3.0,1890,456632648,FOR_SALE,House for sale
+"24802 Petaluma Ln, Carson, CA 90745",722500,4,3.0,1966,21287517,FOR_SALE,House for sale
+"2616 W Grand Ave APT C, Alhambra, CA 91801",688000,3,3.0,1374,20684310,FOR_SALE,Condo for sale
+"4542 Stansbury Ave, Sherman Oaks, CA 91423",1039000,4,2.0,1408,19984474,FOR_SALE,House for sale
+"1623 E 215th Pl, Carson, CA 90745",888888,4,2.0,1225,21253613,FOR_SALE,House for sale
+"858 Calle Portilla, Camarillo, CA 93010",870000,3,3.0,2024,16362969,FOR_SALE,House for sale
+"14902 Foxcroft Rd, Tustin, CA 92780",1199888,3,2.0,1700,25472566,FOR_SALE,House for sale
+"4848 Feather River Rd, Corona, CA 92878",835000,4,3.0,1943,17760350,FOR_SALE,House for sale
+"27261 Riverview Ln, Santa Clarita, CA 91354",530000,2,2.0,1120,63790868,FOR_SALE,Townhouse for sale
+"5117 Stoneglen Rd, La Canada Flintridge, CA 91011",2190000,3,2.0,1921,20904894,FOR_SALE,House for sale
+"631 N Avenue 48 Los, Angeles, CA 90042",330000,4,4.0,3426,457061838,FOR_SALE,New construction
+"125 E 68th Way, Long Beach, CA 90805",555000,1,1.0,558,21243223,FOR_SALE,House for sale
+"6208 Mulholland Hwy, Los Angeles, CA 90068",2450000,4,4.0,2828,20806350,FOR_SALE,House for sale
+"240 S Mentor Ave APT 1, Pasadena, CA 91106",899000,2,3.0,1375,20868769,FOR_SALE,Townhouse for sale
+"33004 Dorama Ave, Acton, CA 93510",675000,4,2.0,2470,20311610,FOR_SALE,House for sale
+"1457 Blue Jay Way, Los Angeles, CA 90069",15995000,5,7.0,9800,20799722,FOR_SALE,House for sale
+"120 E 47th St, Los Angeles, CA 90011",475000,3,1.0,1120,20616443,FOR_SALE,House for sale
+"23701 S Western Ave SPACE 247, Torrance, CA 90501",43000,2,1.0,950,455959482,FOR_SALE,Home for sale
+"5302 E Mezzanine Way, Long Beach, CA 90808",1575000,4,4.0,2419,21189642,FOR_SALE,House for sale
+"10811 Milano Ave, Norwalk, CA 90650",754999,4,2.0,1396,21371206,FOR_SALE,House for sale
+"3107 Corte Caleta, Newport Beach, CA 92660",2225000,3,3.0,2000,25479719,FOR_SALE,House for sale
+"5907 Ibbetson Ave, Lakewood, CA 90713",724000,2,1.0,1119,21174129,FOR_SALE,House for sale
+"7700 Ensign Ave, Sun Valley, CA 91352",700000,3,1.0,1276,20001206,FOR_SALE,House for sale
+"13095 Hubbard St UNIT 1, Sylmar, CA 91342",479000,2,2.0,916,20074400,FOR_SALE,Townhouse for sale
+"609 Paseo Del Mar, Palos Verdes Estates, CA 90274",11500000,5,6.0,7590,21340097,FOR_SALE,House for sale
+"5503 Sunfield Ave, Lakewood, CA 90712",985000,3,2.0,1468,21177032,FOR_SALE,House for sale
+"8110 S Halldale Ave, Los Angeles, CA 90047",550000,2,1.0,960,20948162,FOR_SALE,House for sale
+"1728 Royal Blvd, Glendale, CA 91207",1489000,3,2.0,1758,20838130,FOR_SALE,House for sale
+"1556 Murray Cir, Los Angeles, CA 90026",1695000,3,3.0,1505,20744712,FOR_SALE,House for sale
+"151 E 54th St, Los Angeles, CA 90011",649000,8,6.0,1525,20612636,FOR_SALE,Multi-family home for sale
+"380 Cherry Dr, Pasadena, CA 91105",1250000,3,3.0,2060,20857304,FOR_SALE,House for sale
+"24488 Marzal St, Santa Clarita, CA 91354",550000,2,2.0,1440,82230815,FOR_SALE,Condo for sale
+"22607 Hatteras St, Woodland Hills, CA 91367",1100000,4,3.0,2575,19877856,FOR_SALE,House for sale
+"17705 S Western Ave #53, Gardena, CA 90248",183000,3,2.0,990,2062082936,FOR_SALE,Home for sale
+"1200 Green St, Glendale, CA 91205",979000,4,2.0,1393,20847703,FOR_SALE,House for sale
+"23742 Kivik St, Woodland Hills, CA 91367",1599000,5,3.0,2900,19881321,FOR_SALE,House for sale
+"7802 Colgate Ave, Westminster, CA 92683",1350000,5,3.0,2493,25253365,FOR_SALE,House for sale
+"464 W 8th St, Claremont, CA 91711",1500000,4,3.0,2268,21500679,FOR_SALE,House for sale
+"10461 Shadyridge Dr, Santa Ana, CA 92705",2488888,5,3.0,2851,25510463,FOR_SALE,House for sale
+"5059 Lynnfield St, Los Angeles, CA 90032",769950,2,1.0,820,20641992,FOR_SALE,House for sale
+"20436 Pacific Coast Hwy, Malibu, CA 90265",2500000,2,3.0,1490,20551718,FOR_SALE,House for sale
+"11823 Tennessee Ave, Los Angeles, CA 90064",2195000,4,3.0,2400,20464655,FOR_SALE,New construction
+"120 La Burnum Ln, Fountain Valley, CA 92708",254000,3,2.0,1824,25649641,FOR_SALE,Home for sale
+"23714 Lawnside Dr, Santa Clarita, CA 91321",999995,5,3.0,2584,20207162,FOR_SALE,House for sale
+"2919 S Caldwell Ave, Ontario, CA 91761",699990,3,2.0,1608,17587662,FOR_SALE,House for sale
+"4982 La Calandria Dr, Los Angeles, CA 90032",799999,3,2.0,1104,20641325,FOR_SALE,House for sale
+"3110 Pattiz Ave, Long Beach, CA 90808",1895000,3,4.0,2288,21140454,FOR_SALE,House for sale
+"16301 Stare St, North Hills, CA 91343",850000,3,2.0,1812,20145322,FOR_SALE,House for sale
+"1210 Laurel Way, Beverly Hills, CA 90210",29750000,6,9.0,9856,20522004,FOR_SALE,New construction
+"21553 Oak Dr, Saugus, CA 91350",699996,3,3.0,1690,55197955,FOR_SALE,House for sale
+"814 Amherst Ave APT 204, Los Angeles, CA 90049",1095000,2,2.0,1708,20467604,FOR_SALE,Condo for sale
+"1574 Altivo Way, Los Angeles, CA 90026",895000,1,1.0,740,20753915,FOR_SALE,House for sale
+"5505 Calle Vista Linda, Yorba Linda, CA 92887",2600000,4,3.0,3000,25399637,FOR_SALE,House for sale
+"24877 Eldorado Meadow Rd, Hidden Hills, CA 91302",16995000,6,8.0,11000,19882684,FOR_SALE,New construction
+"45 Drake St, Newport Beach, CA 92663",785000,2,2.0,1000,69251168,FOR_SALE,Home for sale
+"785 W Dalton Ct, Upland, CA 91784",1295000,4,3.0,2523,17564637,FOR_SALE,House for sale
+"1500 Sampson Pl, Los Angeles, CA 90063",849900,3,2.0,1645,20645444,FOR_SALE,House for sale
+"313 E Palmyra Ave, Orange, CA 92866",1490000,3,2.0,1228,25435897,FOR_SALE,House for sale
+"781 W Center St, Pomona, CA 91768",475000,2,1.0,720,21516678,FOR_SALE,House for sale
+"8953 W 24th St, Los Angeles, CA 90034",1275000,2,1.0,1273,20491222,FOR_SALE,House for sale
+"12700 Elliott Ave SPACE 438, El Monte, CA 91732",156000,3,2.0,1104,325796385,FOR_SALE,Home for sale
+"12111 Washington Pl, Los Angeles, CA 90066",1199000,4,4.0,1105,20448843,FOR_SALE,Multi-family home for sale
+"26861 Cuatro Milpas St, Santa Clarita, CA 91354",799000,4,2.0,1625,20194927,FOR_SALE,House for sale
+"2222 Montrose Ave UNIT G, Montrose, CA 91020",999000,3,3.0,1448,325799761,FOR_SALE,Townhouse for sale
+"24050 Hidden Ridge Rd, Hidden Hills, CA 91302",23995000,8,11.0,16112,119678854,FOR_SALE,New construction
+"14 Bronco Dr, Rancho Palos Verdes, CA 90275",950000,4,5.0,4686,249519829,FOR_SALE,House for sale
+"1106 Catlin Ct, Simi Valley, CA 93065",850000,4,2.0,1959,16460369,FOR_SALE,House for sale
+"17751 Stagg St, Reseda, CA 91335",780000,3,2.0,1257,19903004,FOR_SALE,House for sale
+"2641 S Sacramento Pl, Ontario, CA 91761",659999,3,2.0,1380,17207896,FOR_SALE,House for sale
+"28111 Virginia, Mission Viejo, CA 92692",1050000,3,2.0,1403,25635655,FOR_SALE,House for sale
+"674 Lautrec Ct, Thousand Oaks, CA 91360",2099000,4,3.0,2377,448320981,FOR_SALE,House for sale
+"1129 Via Mirabel, Palos Verdes Estates, CA 90274",33088888,13,20.0,34143,21342907,FOR_SALE,House for sale
+"700 Lido Park Dr UNIT 33, Newport Beach, CA 92663",889000,3,2.0,1200,59729606,FOR_SALE,Home for sale
+"10931 Groveside Ave, Whittier, CA 90603",869000,4,2.0,1334,21465294,FOR_SALE,House for sale
+"732 N Toledo Walk, Long Beach, CA 90813",799000,3,1.0,1243,21233018,FOR_SALE,House for sale
+"16015 Baker Canyon Rd, Saugus, CA 91390",683000,3,3.0,2119,20315692,FOR_SALE,House for sale
+"542 N 13th St, Santa Paula, CA 93060",785000,5,3.0,,16342752,FOR_SALE,Multi-family home for sale
+"353 S Berkeley Ave, Pasadena, CA 91107",1469000,3,2.0,2377,20702662,FOR_SALE,House for sale
+"25455 Hardy Pl, Valencia, CA 91381",875000,4,3.0,2370,20203248,FOR_SALE,House for sale
+"9235 Danbridge St, Pico Rivera, CA 90660",875000,4,2.0,1694,21099712,FOR_SALE,House for sale
+"20042 Canyon View Dr #74, Canyon Country, CA 91351",279900,3,2.0,1482,442627234,FOR_SALE,Home for sale
+"4705 E Washington Ave, Orange, CA 92869",1059000,3,2.0,1047,25439529,FOR_SALE,House for sale
+"1616 S Euclid St SPACE 23, Anaheim, CA 92802",265000,5,3.0,1368,25647959,FOR_SALE,Home for sale
+"30320 183rd St E, Llano, CA 93544",199900,2,1.0,2250,20272952,FOR_SALE,House for sale
+"8185 Del Rey Dr, Stanton, CA 90680",790000,4,3.0,1525,25233310,FOR_SALE,House for sale
+"9322 Franklin St, Chatsworth, CA 91311",599000,3,2.0,1710,51576300,FOR_SALE,House for sale
+"9001 Oceanwood Dr, Huntington Beach, CA 92646",1549000,5,3.0,2381,25272693,FOR_SALE,House for sale
+"18645 Knapp St, Northridge, CA 91324",1095999,3,3.0,1533,20175780,FOR_SALE,House for sale
+"1309 Davies Dr, Beverly Hills, CA 90210",49950000,6,12.0,,20523774,FOR_SALE,House for sale
+"7211 Donnelly Ave, San Gabriel, CA 91775",900000,3,2.0,1419,20729186,FOR_SALE,House for sale
+"16102 E Avenue Y8, Llano, CA 93544",350000,4,3.0,2977,20272830,FOR_SALE,House for sale
+"320 N Park Vis #28, Anaheim, CA 92806",170000,4,2.0,1440,2054475094,FOR_SALE,Home for sale
+"1613 S Roosevelt Ave, Fullerton, CA 92832",964900,4,2.0,1268,25158902,FOR_SALE,House for sale
+"24055 Paseo Del Lago UNIT 602, Laguna Woods, CA 92637",299999,2,2.0,1200,246149634,FOR_SALE,Condo for sale
+"1637 N Alvarado St, Los Angeles, CA 90026",1150000,3,2.0,1390,20743524,FOR_SALE,House for sale
+"519 1/2 Rose Ave, Venice, CA 90291",995000,2,2.0,970,455948399,FOR_SALE,Condo for sale
+"8815 Glider Ave, Los Angeles, CA 90045",975000,3,2.0,1253,20390135,FOR_SALE,House for sale
+"693 Royce St, Altadena, CA 91001",795000,2,1.0,1036,20907356,FOR_SALE,House for sale
+"2417 Brookhaven Dr, Chino Hills, CA 91709",1300000,4,3.0,2588,17553360,FOR_SALE,House for sale
+"2522 Zorada Dr, Los Angeles, CA 90046",1650000,3,2.0,1550,102979613,FOR_SALE,House for sale
+"27318 Maverick Pl, Valencia, CA 91381",899999,3,3.0,2335,440642045,FOR_SALE,Condo for sale
+"7833 Torreyson Dr, Los Angeles, CA 90046",6295000,5,6.0,5707,20802717,FOR_SALE,House for sale
+"11111 Colima Rd, Whittier, CA 90604",789000,3,2.0,1528,21433712,FOR_SALE,House for sale
+"21500 Lassen St, Chatsworth, CA 91311",399900,3,3.0,1600,2069492450,FOR_SALE,New construction
+"15141 Beach Blvd SPACE 39, Midway City, CA 92655",65000,2,1.0,780,59729035,FOR_SALE,Home for sale
+"1650 Topanga, Costa Mesa, CA 92627",1750000,4,5.0,2142,325860382,FOR_SALE,Townhouse for sale
+"17050 E Cypress St, Covina, CA 91722",815000,4,3.0,1958,21543806,FOR_SALE,House for sale
+"21001 Plummer St #114, Chatsworth, CA 91311",267000,2,2.0,1344,456396804,FOR_SALE,Home for sale
+"11218 Orion Ave, Mission Hills, CA 91345",849900,4,3.0,1660,20139413,FOR_SALE,House for sale
+"561 Meridian Ter, Los Angeles, CA 90042",1089000,3,2.0,1176,20771609,FOR_SALE,House for sale
+"1204 Chickory Ln, Los Angeles, CA 90049",38000000,9,16.0,,20559712,FOR_SALE,New construction
+"2030 Pelham Ave, Los Angeles, CA 90025",1795000,3,2.0,1551,20501430,FOR_SALE,House for sale
+"2117 Madison Ave, Altadena, CA 91001",999000,3,2.0,1579,20914677,FOR_SALE,House for sale
+"13104 Glen Ct UNIT 18, Chino Hills, CA 91709",538000,3,2.0,1144,17550267,FOR_SALE,Condo for sale
+"456 N Begonia Ave, Ontario, CA 91762",649900,3,2.0,1280,17527540,FOR_SALE,House for sale
+"22308 Dolorosa St, Woodland Hills, CA 91367",998500,3,2.0,1458,19929103,FOR_SALE,House for sale
+"1150 E 80th St, Los Angeles, CA 90001",795000,5,2.0,2041,20944019,FOR_SALE,Multi-family home for sale
+"9225 Cedros Ave #B, Panorama City, CA 91402",499000,3,3.0,1461,20133626,FOR_SALE,Condo for sale
+"2276 Monte Vista St, Pasadena, CA 91107",1399000,3,2.0,1530,20873659,FOR_SALE,House for sale
+"1450 Ricardo St, Los Angeles, CA 90033",449000,2,1.0,750,20636042,FOR_SALE,Condo for sale
+"1026 Juniper Rd, Pinon Hills, CA 92372",440000,3,2.0,2115,17627814,FOR_SALE,House for sale
+"545 Stanton St, Pasadena, CA 91103",850000,3,2.0,1283,20854881,FOR_SALE,House for sale
+"4912 Edgewood Pl, Los Angeles, CA 90019",1099999,8,4.0,3386,20606429,FOR_SALE,Multi-family home for sale
+"2012 Manhattan Beach Blvd #2, Redondo Beach, CA 90278",1000000,2,3.0,1323,20402619,FOR_SALE,Townhouse for sale
+"4335 Marina City Dr UNIT 346, Marina Del Rey, CA 90292",795000,3,2.0,1722,2136438935,FOR_SALE,Condo for sale
+"982 S Sarah Way, Anaheim, CA 92805",859900,3,2.0,1346,25323295,FOR_SALE,House for sale
+"837 Hillview Cir, Simi Valley, CA 93065",995000,4,3.0,2140,16455514,FOR_SALE,House for sale
+"4698 Morro Dr, Woodland Hills, CA 91364",1199000,3,3.0,2088,19944796,FOR_SALE,House for sale
+"324 Chestnut Ave, Los Angeles, CA 90042",855000,2,1.0,810,20773263,FOR_SALE,House for sale
+"3624 Leilani Way, Altadena, CA 91001",899000,2,1.0,1426,20910461,FOR_SALE,House for sale
+"3371 Garden Ave, Los Angeles, CA 90039",995000,2,1.0,838,20751196,FOR_SALE,House for sale
+"1141 Williams St, Monterey Park, CA 91754",750000,3,1.0,996,20665822,FOR_SALE,House for sale
+"7085 Cerritos Ave, Stanton, CA 90680",625000,2,3.0,981,456915462,FOR_SALE,Condo for sale
+"12240 Aegean St, Norwalk, CA 90650",789000,3,2.0,1113,21375941,FOR_SALE,House for sale
+"6521 1/2 La Mirada Ave, Los Angeles, CA 90038",999000,3,3.0,1723,119678828,FOR_SALE,House for sale
+"10950 Bellagio Rd, Los Angeles, CA 90077",17998000,6,6.0,7830,20527670,FOR_SALE,House for sale
+"1855 E Riverside Dr SPACE 107, Ontario, CA 91761",75000,3,2.0,1176,82899928,FOR_SALE,Home for sale
+"242 N Camino Arroyo, Anaheim, CA 92807",1198888,4,2.0,2138,25408164,FOR_SALE,House for sale
+"7812 Borson St, Downey, CA 90242",999000,4,3.0,2146,21046889,FOR_SALE,House for sale
+"5 Sand Dollar Ct #16, Newport Beach, CA 92663",935000,2,3.0,1164,25697302,FOR_SALE,Condo for sale
+"2911 1/2 N Coolidge Ave, Los Angeles, CA 90039",589500,2,2.0,732,442028457,FOR_SALE,House for sale
+"1169 Loma Linda Dr, Beverly Hills, CA 90210",31999000,6,7.0,7500,20522731,FOR_SALE,House for sale
+"27301 Via Avila, Mission Viejo, CA 92691",1395000,4,2.0,1640,25623467,FOR_SALE,House for sale
+"1147 24th St #A-B, Santa Monica, CA 90403",1199000,3,4.0,1469,455351929,FOR_SALE,Multi-family home for sale
+"4755 Gettysburg Ave, Chino, CA 91710",735000,3,2.0,1434,17540041,FOR_SALE,House for sale
+"26970 Flo Ln UNIT 310, Santa Clarita, CA 91351",450000,2,2.0,1064,20210075,FOR_SALE,Condo for sale
+"53 Wellesley, Irvine, CA 92612",1388000,4,3.0,1600,2136762897,FOR_SALE,Townhouse for sale
+"310 Placemark, Irvine, CA 92614",885000,2,3.0,1127,442734848,FOR_SALE,Townhouse for sale
+"408 E Del Mar Blvd, Pasadena, CA 91101",600000,2,1.0,1162,20862688,FOR_SALE,House for sale
+"6250 Deerfield Ave, San Gabriel, CA 91775",1395000,3,2.0,1858,20734335,FOR_SALE,House for sale
+"10648 Franlie Dr, Sunland, CA 91040",699000,2,2.0,800,20090874,FOR_SALE,House for sale
+"8363 Stewart Ave, Los Angeles, CA 90045",3995000,5,7.0,4050,20383717,FOR_SALE,New construction
+"2028 E Cienega Ave, Covina, CA 91724",719000,3,2.0,1285,21535207,FOR_SALE,House for sale
+"910 W Valencia Mesa Dr, Fullerton, CA 92835",1625000,4,3.0,2180,25115770,FOR_SALE,House for sale
+"3975 Black Bird Way, Calabasas, CA 91302",749000,2,2.0,1131,19901192,FOR_SALE,House for sale
+"29 Bell Vista, Foothill Ranch, CA 92610",1625000,5,3.0,2525,25522992,FOR_SALE,House for sale
+"500 S Clymar Ave, Compton, CA 90220",649000,5,3.0,1821,20992600,FOR_SALE,House for sale
+"1150 Ventura Blvd SPACE 126, Camarillo, CA 93010",159000,3,2.0,1204,16507579,FOR_SALE,Home for sale
+"829 S Mountain Ave, Ontario, CA 91762",488000,2,2.0,1332,17528798,FOR_SALE,Condo for sale
+"19622 Crestknoll Dr, Yorba Linda, CA 92886",1449000,4,4.0,2029,25392288,FOR_SALE,House for sale
+"25305 Prado De La Felicidad, Calabasas, CA 91302",16995000,7,10.0,15745,95648904,FOR_SALE,House for sale
+"5913 Fountain Ave, Los Angeles, CA 90028",895000,2,2.0,834,20792367,FOR_SALE,House for sale
+"25511 Palermo Way, Yorba Linda, CA 92887",1169000,4,3.0,2021,25401280,FOR_SALE,House for sale
+"704 W Palmyra Ave, Orange, CA 92868",825000,3,2.0,1644,25132405,FOR_SALE,House for sale
+"3152 Olive St, Huntington Park, CA 90255",690000,3,1.0,1386,21030936,FOR_SALE,House for sale
+"1654 N Beverly Dr, Beverly Hills, CA 90210",1795000,2,3.0,2114,20523244,FOR_SALE,House for sale
+"903 E 7th St, Pomona, CA 91766",649900,3,2.0,1104,21511739,FOR_SALE,House for sale
+"683 Via Vis, Thousand Oaks, CA 91320",1595000,5,4.0,3178,16412943,FOR_SALE,House for sale
+"2616 Rokeby St, Los Angeles, CA 90039",1599000,3,2.0,1600,20752578,FOR_SALE,House for sale
+"10303 Pounds Ave, Whittier, CA 90603",899000,3,3.0,1935,21466431,FOR_SALE,House for sale
+"2268 Betty Ln, Beverly Hills, CA 90210",3195000,4,3.0,2566,20533780,FOR_SALE,House for sale
+"25431 Avenida Frasca, Santa Clarita, CA 91355",625000,2,2.0,1042,20223826,FOR_SALE,House for sale
+"11402 Basye St, El Monte, CA 91732",598000,3,1.0,1224,21608635,FOR_SALE,House for sale
+"1206 S Towner St, Santa Ana, CA 92707",925000,3,2.0,1669,25096599,FOR_SALE,House for sale
+"86 Canopy, Irvine, CA 92603",1798000,3,3.0,2073,63118253,FOR_SALE,House for sale
+"9760 Jersey Ave APT 173, Santa Fe Springs, CA 90670",405000,3,3.0,1162,21368219,FOR_SALE,Auction
+"2512 Prospect Ave, Montrose, CA 91020",1650000,4,3.0,2348,20902091,FOR_SALE,House for sale
+"23614 Dry Canyon Cold Creek Rd, Calabasas, CA 91302",11495000,6,7.0,12140,2091499259,FOR_SALE,New construction
+"6919 Camrose Dr, Los Angeles, CA 90068",1625000,3,3.0,2200,20793841,FOR_SALE,House for sale
+"4530 E Langdon Dr, Anaheim, CA 92807",1199000,5,3.0,2533,251236582,FOR_SALE,House for sale
+"116 Clear Fls, Irvine, CA 92602",7600000,5,7.0,5580,305151375,FOR_SALE,House for sale
+"25332 Baycrest Ct UNIT A, Harbor City, CA 90710",450000,3,3.0,1466,448748192,FOR_SALE,Townhouse for sale
+"1300 Firmona Ave, Redondo Beach, CA 90278",1199000,3,1.0,1034,20369038,FOR_SALE,House for sale
+"28622 Sycamore Dr, Silverado, CA 92676",855000,3,2.0,1281,25198927,FOR_SALE,House for sale
+"3131 & 3135 Oakcrest Dr, Los Angeles, CA 90068",975000,6,4.0,4392,440452552,FOR_SALE,Auction
+"13691 Gavina Ave UNIT 417, Sylmar, CA 91342",279900,2,2.0,1310,136709541,FOR_SALE,Home for sale
+"1311 La Colina Dr, Tustin, CA 92780",1595000,4,2.0,2136,25196915,FOR_SALE,House for sale
+"16600 Downey Ave SPC 27, Paramount, CA 90723",274999,4,2.0,1344,136698370,FOR_SALE,Home for sale
+"1322 E California Ave, Glendale, CA 91206",609000,2,1.0,586,20835059,FOR_SALE,House for sale
+"22620 Cavalier St, Woodland Hills, CA 91364",1249900,4,3.0,2064,19899999,FOR_SALE,House for sale
+"27439 Santa Clarita Rd, Santa Clarita, CA 91350",699000,3,2.0,1230,20189735,FOR_SALE,House for sale
+"619 Springbrook N, Irvine, CA 92614",919000,2,2.0,1171,2080179600,FOR_SALE,Condo for sale
+"22403 Los Rogues Dr, Santa Clarita, CA 91350",810000,3,3.0,1536,20189798,FOR_SALE,House for sale
+"3852 Blackthorn St, Irvine, CA 92606",1335000,3,2.0,1420,25485590,FOR_SALE,House for sale
+"19427 Lemay St, Reseda, CA 91335",850000,3,2.0,1367,19923992,FOR_SALE,House for sale
+"78 N Sierra Bonita Ave #2, Pasadena, CA 91106",1250000,5,4.0,2090,122236310,FOR_SALE,Condo for sale
+"825 N Raitt St, Santa Ana, CA 92703",825000,3,3.0,1300,25451557,FOR_SALE,House for sale
+"3711 Baldwin St APT 803, Los Angeles, CA 90031",649000,4,4.0,1519,82878299,FOR_SALE,Townhouse for sale
+"3231 Cheviot Vista Pl APT 104, Los Angeles, CA 90034",699000,2,2.0,1111,20496749,FOR_SALE,Condo for sale
+"20 Ironsides St APT 8, Marina Del Rey, CA 90292",1099000,1,2.0,1261,20443371,FOR_SALE,Condo for sale
+"6757 Stephanie Pl, Winnetka, CA 91306",800000,3,2.0,1246,19930684,FOR_SALE,House for sale
+"124 Pueblo Ln, Topanga, CA 90290",850000,3,2.0,1356,51583042,FOR_SALE,For sale by owner
+"10004 Reseda Blvd UNIT D, Northridge, CA 91324",709000,3,3.0,1903,20168118,FOR_SALE,Townhouse for sale
+"3620 Sherwood Dr, Yorba Linda, CA 92886",1045000,3,3.0,1761,25372091,FOR_SALE,House for sale
+"1310 N Detroit St APT 405, Los Angeles, CA 90046",500000,2,2.0,1144,20792999,FOR_SALE,Condo for sale
+"1108 Wallace Rdg, Beverly Hills, CA 90210",46000000,7,14.0,18169,20534658,FOR_SALE,House for sale
+"2118 Tierra Loma Dr, Diamond Bar, CA 91765",1350000,5,3.0,2468,21492388,FOR_SALE,House for sale
+"3203 Eckleson St, Lakewood, CA 90712",795000,3,1.0,1173,21168662,FOR_SALE,House for sale
+"1706 2nd St, Manhattan Beach, CA 90266",2095000,3,2.0,1262,20412363,FOR_SALE,House for sale
+"762 Tuolumne Dr, Thousand Oaks, CA 91360",540000,2,2.0,964,16427319,FOR_SALE,Townhouse for sale
+"741 E Hawthorne St, Ontario, CA 91764",648000,3,2.0,1475,17574585,FOR_SALE,House for sale
+"19834 Sandpiper Pl UNIT 64, Santa Clarita, CA 91321",399900,3,2.0,1078,20211033,FOR_SALE,Foreclosure
+"1501 Ewing St, Los Angeles, CA 90026",1349000,2,2.0,1421,20742924,FOR_SALE,House for sale
+"1566 Pine Ave APT 206A, Long Beach, CA 90813",299900,2,2.0,799,2070136403,FOR_SALE,Condo for sale
+"17306 Village 17, Camarillo, CA 93012",475000,2,2.0,1191,16373644,FOR_SALE,House for sale
+"1433 Bentley Ct, San Dimas, CA 91773",927800,4,3.0,1875,21528637,FOR_SALE,House for sale
+"3711 Baldwin St APT 1306, Los Angeles, CA 90031",624000,3,2.0,1073,82876909,FOR_SALE,Condo for sale
+"965 S Dylan Way, Anaheim, CA 92808",1200000,3,3.0,1600,25405462,FOR_SALE,House for sale
+"4953 Ambrose Ave, Los Angeles, CA 90027",2700000,4,3.0,2749,20809744,FOR_SALE,House for sale
+"28 Bonita Vis, Foothill Ranch, CA 92610",1350000,4,3.0,2118,25522409,FOR_SALE,House for sale
+"20410 Miranda St, Woodland Hills, CA 91367",925000,3,2.0,1404,19931927,FOR_SALE,House for sale
+"3004 Laurel Canyon Blvd, Studio City, CA 91604",1795000,3,4.0,2433,20031236,FOR_SALE,House for sale
+"701 N Camden Dr, Beverly Hills, CA 90210",37950000,6,9.0,15000,20521490,FOR_SALE,New construction
+"48 Parkcrest, Irvine, CA 92620",2888000,5,4.0,3004,25519401,FOR_SALE,House for sale
+"2370 Live Oak Meadows Rd, Malibu, CA 90265",1600000,3,2.0,1484,20552842,FOR_SALE,House for sale
+"2462 Pleasant Way UNIT J, Thousand Oaks, CA 91362",455000,2,2.0,907,16477682,FOR_SALE,Condo for sale
+"2027 W 70th St, Los Angeles, CA 90047",690000,3,2.0,1425,20936975,FOR_SALE,House for sale
+"1041 N Orlando Ave, Los Angeles, CA 90069",4295000,4,4.0,,20787056,FOR_SALE,House for sale
+"1424 W 152nd St, Compton, CA 90220",349900,2,1.0,585,20995655,FOR_SALE,House for sale
+"2716 Highland Ave, Manhattan Beach, CA 90266",3399000,3,3.0,2057,20421007,FOR_SALE,House for sale
+"2849 Shoreview Cir, Westlake Village, CA 91361",895000,2,2.0,1144,16493423,FOR_SALE,Condo for sale
+"6266 Jasmine Dr, Huntington Beach, CA 92648",2398000,3,3.0,2569,25210369,FOR_SALE,House for sale
+"20616 Budlong Ave, Torrance, CA 90502",780000,4,2.0,1716,21268130,FOR_SALE,Multi-family home for sale
+"24619 Montevista Cir, Santa Clarita, CA 91354",740000,3,3.0,1694,58574603,FOR_SALE,House for sale
+"529 Naranja Dr, Glendale, CA 91206",799998,2,2.0,951,20835133,FOR_SALE,House for sale
+"1719 Ambassador Ave, Beverly Hills, CA 90210",10900000,6,5.0,5268,20522328,FOR_SALE,House for sale
+"8850 E Cloudview Way, Anaheim, CA 92808",1474999,5,3.0,2892,25513312,FOR_SALE,House for sale
+"17350 Temple Ave #320, La Puente, CA 91744",145500,3,2.0,1500,2116656770,FOR_SALE,Home for sale
+"3565 W Stonepine Ln UNIT B, Anaheim, CA 92804",569000,2,2.0,1026,456348174,FOR_SALE,Condo for sale
+"716 N Grand Ave #I3, Covina, CA 91724",219900,3,2.0,1022,2063058287,FOR_SALE,Home for sale
+"4749 Pixie Ave, Lakewood, CA 90712",899900,3,1.0,1217,21166434,FOR_SALE,House for sale
+"2501 Cliff Rd, Upland, CA 91784",1437500,5,3.0,3077,17512136,FOR_SALE,House for sale
+"19862 Le Mans Cir, Yorba Linda, CA 92886",1998000,4,5.0,3643,25392454,FOR_SALE,House for sale
+"18829 Vicci St, Santa Clarita, CA 91351",750000,4,3.0,1595,20187729,FOR_SALE,House for sale
+"77 Calle Aragon UNIT C, Laguna Woods, CA 92637",330000,1,1.0,770,2118477599,FOR_SALE,Condo for sale
+"626 N Cahuenga Blvd, Los Angeles, CA 90004",1995000,3,2.0,1692,20782460,FOR_SALE,House for sale
+"2360 Fanwood Ave, Long Beach, CA 90815",1150000,4,2.0,1300,21204815,FOR_SALE,House for sale
+"3224 La Clede Ave, Los Angeles, CA 90039",1749000,3,3.0,1585,20750777,FOR_SALE,House for sale
+"311 Nimbus Dr, Tustin, CA 92782",1150000,3,3.0,1500,69246416,FOR_SALE,Condo for sale
+"11134 Arroyo Dr, Whittier, CA 90604",839900,3,2.0,1143,21462825,FOR_SALE,House for sale
+"1566 E Edgemont Dr, Camarillo, CA 93010",999500,4,3.0,2366,16367607,FOR_SALE,House for sale
+"1722 Mitchell Ave APT 123, Tustin, CA 92780",665000,3,2.0,1248,25473380,FOR_SALE,Townhouse for sale
+"2612 Del Way APT B, Huntington Beach, CA 92648",749000,2,2.0,1088,25114540,FOR_SALE,Townhouse for sale
+"1050 W 96th St, Los Angeles, CA 90044",599900,3,1.0,1279,20962564,FOR_SALE,House for sale
+"1275 N Craig Ave, Pasadena, CA 91104",1595000,3,2.0,1508,20872354,FOR_SALE,House for sale
+"1455 N Bronson Ave APT 4, Los Angeles, CA 90028",695000,1,2.0,1245,82874394,FOR_SALE,Condo for sale
+"2334 Richmond Way, Costa Mesa, CA 92626",839999,2,2.0,1244,25461341,FOR_SALE,Townhouse for sale
+"13408 Burton St, Panorama City, CA 91402",799000,2,2.0,1554,19995359,FOR_SALE,House for sale
+"3378 Merida Ln, Brea, CA 92823",750000,2,2.0,1321,145647696,FOR_SALE,Condo for sale
+"28274 San Martinez Grande Canyon Rd, Castaic, CA 91384",585000,2,3.0,2250,136709945,FOR_SALE,For sale by owner
+"16187 Royal Oak Rd, Encino, CA 91436",32999995,8,11.0,19766,19992702,FOR_SALE,House for sale
+"2611 W 129th St, Gardena, CA 90249",950000,4,3.0,1630,20355599,FOR_SALE,House for sale
+"225 W State St, Pasadena, CA 91105",1350000,5,3.0,3079,250338609,FOR_SALE,House for sale
+"1706 N Catalina St, Burbank, CA 91505",1199000,3,2.0,1540,20056753,FOR_SALE,House for sale
+"2409 W Corydon St, Compton, CA 90220",675000,3,2.0,1056,20992369,FOR_SALE,House for sale
+"502 E Wilshire Ave, Santa Ana, CA 92707",879999,4,2.0,1395,25098869,FOR_SALE,House for sale
+"939 E 55th St, Los Angeles, CA 90011",685000,3,2.0,1476,20613592,FOR_SALE,House for sale
+"3741 Aspen Ln, Chino Hills, CA 91709",865000,3,2.0,1436,17542116,FOR_SALE,House for sale
+"24425 Woolsey Canyon Rd SPACE 114, Canoga Park, CA 91304",199000,4,2.0,1792,136702430,FOR_SALE,Home for sale
+"3390 Elm Ave #2, Long Beach, CA 90807",565000,2,3.0,979,21164881,FOR_SALE,Condo for sale
+"655 Doreen Ct, Upland, CA 91786",749900,4,2.0,1758,17567830,FOR_SALE,House for sale
+"2040 Woodbriar Ct, Fullerton, CA 92831",979000,3,3.0,2002,25379344,FOR_SALE,House for sale
+"(undisclosed Address), Beverly Hills, CA 90210",75000000,11,20.0,27000,444919163,FOR_SALE,House for sale
+"20128 Shadow Island Dr, Santa Clarita, CA 91351",265000,2,2.0,1036,136710372,FOR_SALE,House for sale
+"19172 Sierra Maria Rd, Irvine, CA 92603",2798000,4,3.0,2330,25500770,FOR_SALE,House for sale
+"24805 Acropolis Dr, Mission Viejo, CA 92691",1599900,4,3.0,3246,25538770,FOR_SALE,House for sale
+"8129 Rancho Poderoso Rd, Paramount, CA 90723",819999,4,3.0,1658,21056305,FOR_SALE,House for sale
+"1714 Stone Canyon Rd, Los Angeles, CA 90077",17680000,8,13.0,17415,20529440,FOR_SALE,House for sale
+"8300 Zelzah Ave, Northridge, CA 91325",799900,3,2.0,1618,20184431,FOR_SALE,Multi-family home for sale
+"837 N West Knoll Dr APT 109, West Hollywood, CA 90069",625000,2,2.0,1044,20516691,FOR_SALE,Condo for sale
+"127 E 81st St, Los Angeles, CA 90003",779000,8,4.0,1534,20945192,FOR_SALE,Multi-family home for sale
+"14233 Yellowstone Ln, Santa Clarita, CA 91387",1195000,5,3.0,3298,59275846,FOR_SALE,House for sale
+"3099 Mandeville Canyon Rd, Los Angeles, CA 90049",70000000,9,15.0,20000,110283679,FOR_SALE,House for sale
+"327 Flaxton St, Pomona, CA 91767",700000,3,2.0,1350,21523411,FOR_SALE,House for sale
+"15415 Milldale Dr, Los Angeles, CA 90077",3295000,4,5.0,2626,20530780,FOR_SALE,House for sale
+"339 W Mauna Loa Ave, Glendora, CA 91740",750000,4,2.0,1185,21639690,FOR_SALE,House for sale
+"11051 Molette St, Norwalk, CA 90650",750000,3,1.0,1139,21405306,FOR_SALE,House for sale
+"3014 Stevely Ave, Long Beach, CA 90808",1288000,3,2.0,1383,21140428,FOR_SALE,House for sale
+"11202 Kling St, North Hollywood, CA 91602",1649000,3,3.0,1734,20018652,FOR_SALE,House for sale
+"1337 E Larkwood St, West Covina, CA 91790",799900,3,2.0,1130,21571872,FOR_SALE,House for sale
+"17053 Roscoe Blvd UNIT 6, Northridge, CA 91325",450000,2,2.0,1074,20152072,FOR_SALE,Townhouse for sale
+"1722 N Del Norte Ave, Ontario, CA 91764",625000,4,2.0,1350,17204776,FOR_SALE,Foreclosure
+"1567 Sequoia Ave, Simi Valley, CA 93063",599950,2,1.0,855,16462450,FOR_SALE,House for sale
+"1851 Outpost Dr, Los Angeles, CA 90068",7798000,6,7.0,5906,20803593,FOR_SALE,House for sale
+"18802 Mandan St APT 908, Santa Clarita, CA 91351",378000,2,2.0,850,20188310,FOR_SALE,Condo for sale
+"1834 N Maple St, Burbank, CA 91505",899950,4,3.0,1484,20046603,FOR_SALE,House for sale
+"435 S Mariposa St, Burbank, CA 91506",819000,2,2.0,1663,20050056,FOR_SALE,Auction
+"427 N Walnuthaven Dr, West Covina, CA 91790",799000,5,2.0,1563,21559280,FOR_SALE,House for sale
+"4040 Via Marisol UNIT 123, Los Angeles, CA 90042",395000,2,1.0,920,20687813,FOR_SALE,Condo for sale
+"1778 W 37th St, Los Angeles, CA 90018",549950,3,1.0,1152,111918814,FOR_SALE,House for sale
+"1241 S 4th St, Alhambra, CA 91801",1090000,3,2.0,1501,20711035,FOR_SALE,House for sale
+"2408 S Taylor Pl, Ontario, CA 91761",899888,6,5.0,2513,17585108,FOR_SALE,House for sale
+"137 N Mine Canyon Rd UNIT A, Orange, CA 92869",635000,2,2.0,882,25707852,FOR_SALE,Condo for sale
+"6861 Reefton Ave, Cypress, CA 90630",1198000,4,2.0,1890,25317384,FOR_SALE,House for sale
+"5852 Bellfield Ln, Huntington Beach, CA 92648",1790000,4,3.0,2474,25288140,FOR_SALE,House for sale
+"1511 E 85th St, Los Angeles, CA 90001",498000,2,2.0,660,20944321,FOR_SALE,House for sale
+"1722 Mitchell Ave APT 168, Tustin, CA 92780",674000,3,2.0,1248,25473325,FOR_SALE,Townhouse for sale
+"248 N Glenroy Ave, Los Angeles, CA 90049",9999990,5,6.0,4899,20527722,FOR_SALE,House for sale
+"1152 W Tudor St, San Dimas, CA 91773",799000,3,2.0,1170,21529006,FOR_SALE,House for sale
+"822 Pine St, Santa Monica, CA 90405",2295000,4,3.0,1810,20480226,FOR_SALE,House for sale
+"5789 Fairhaven Ave, Woodland Hills, CA 91367",1395000,4,3.0,2527,19880831,FOR_SALE,House for sale
+"3595 Santa Fe Ave SPC 146, Long Beach, CA 90810",215000,4,2.0,1700,2106324579,FOR_SALE,Home for sale
+"7032 Stansbury Ave, Van Nuys, CA 91405",749950,4,3.0,1602,19959373,FOR_SALE,House for sale
+"8615 Skyline Dr, Los Angeles, CA 90046",1799000,3,3.0,1756,20800504,FOR_SALE,House for sale
+"740-740 Albee St, Montebello, CA 90640",799999,3,2.0,1285,457043738,FOR_SALE,House for sale
+"1222 E 57th St, Long Beach, CA 90805",949990,4,2.0,1672,21153727,FOR_SALE,House for sale
+"7927 E Horseshoe Trl, Orange, CA 92869",1250000,3,2.0,2089,25428774,FOR_SALE,House for sale
+"1167 Hummingbird Ln, Corona, CA 92882",1200000,4,3.0,2683,17761401,FOR_SALE,House for sale
+"1205 W Cypress Ave #105, San Dimas, CA 91773",329000,3,2.0,1683,456091289,FOR_SALE,Home for sale
+"4814 Asteria St, Torrance, CA 90503",1595000,4,2.0,1415,21329649,FOR_SALE,House for sale
+"8194 Calendula Dr, Buena Park, CA 90620",875000,4,2.0,1418,25150469,FOR_SALE,House for sale
+"368-368 West St, Upland, CA 91786",550000,2,1.0,804,457071216,FOR_SALE,House for sale
+"19 Ninos, Irvine, CA 92620",1808000,4,3.0,2194,25517674,FOR_SALE,House for sale
+"11500 Kingsland St, Los Angeles, CA 90066",5575000,5,6.0,4479,20457799,FOR_SALE,House for sale
+"415-417 Euclid Ave, Los Angeles, CA 90063",629000,6,4.0,1447,2068370181,FOR_SALE,Multi-family home for sale
+"19920 Gresham St, Northridge, CA 91324",799000,4,3.0,1811,20182258,FOR_SALE,House for sale
+"1949 Lancewood Ave, Hacienda Heights, CA 91745",888000,4,3.0,2272,21471252,FOR_SALE,House for sale
+"3216 Kelburn Ave, Rosemead, CA 91770",549900,1,1.0,400,20681803,FOR_SALE,Foreclosure
+"1417 Queens Rd, Los Angeles, CA 90069",2249000,3,2.0,1779,20797285,FOR_SALE,House for sale
+"13903 Sherman Way APT 8, Los Angeles, CA 91405",349999,2,2.0,1012,19958311,FOR_SALE,Condo for sale
+"927 N Glenn Ave, Ontario, CA 91764",699000,4,2.0,1200,17206271,FOR_SALE,House for sale
+"610 E Payson St, San Dimas, CA 91773",899900,4,2.0,2020,21530828,FOR_SALE,House for sale
+"12918 Glendon Pl, Chino Hills, CA 91709",925000,4,3.0,1934,17549935,FOR_SALE,House for sale
+"2318 Blackfoot Ave, Placentia, CA 92870",599000,2,1.0,816,25377624,FOR_SALE,House for sale
+"4581 Northridge Dr, Los Angeles, CA 90043",899000,2,2.0,1310,20565742,FOR_SALE,House for sale
+"1161 W Duarte Rd UNIT 3, Arcadia, CA 91007",599000,2,2.0,1300,20729660,FOR_SALE,Condo for sale
+"3900 Myrtle Ave, Long Beach, CA 90807",1699000,4,4.0,1921,21160673,FOR_SALE,House for sale
+"1102 Park St, Huntington Beach, CA 92648",1995000,4,3.0,2060,25109300,FOR_SALE,House for sale
+"13534 Cordary Ave UNIT 14, Hawthorne, CA 90250",615000,3,3.0,1732,20352463,FOR_SALE,Townhouse for sale
+"8579 Skyline Dr, Los Angeles, CA 90046",1750000,3,2.0,2100,20801226,FOR_SALE,House for sale
+"22404 Calipatria Dr, Calabasas, CA 91302",1990000,4,3.0,2495,19901970,FOR_SALE,House for sale
+"250 S Rockingham Ave, Los Angeles, CA 90049",41950000,7,12.0,13500,20538460,FOR_SALE,House for sale
+"8 Faircliff Ct, Glendale, CA 91206",949000,2,3.0,1837,20843255,FOR_SALE,Townhouse for sale
+"518 Willow Pl, La Verne, CA 91750",789000,3,2.0,1179,21528120,FOR_SALE,House for sale
+"766 Paseo Miramar, Pacific Palisades, CA 90272",39000000,7,12.0,18372,20543033,FOR_SALE,New construction
+"1316 W Beacon Ave, Anaheim, CA 92802",799999,4,2.0,1291,25129467,FOR_SALE,House for sale
+"21752 Pacific Coast Hwy SPC 15A, Huntington Beach, CA 92646",235000,3,2.0,1320,61645431,FOR_SALE,Home for sale
+"109 S Vermont Ave, Fullerton, CA 92833",700000,2,1.0,999,25118339,FOR_SALE,House for sale
+"1466 N Rose St, Burbank, CA 91505",1029000,3,3.0,1688,20046462,FOR_SALE,House for sale
+"9694 Mount Barnard Dr, Buena Park, CA 90620",969888,4,2.0,1249,25239734,FOR_SALE,House for sale
+"365 Norcroft Ave, Los Angeles, CA 90024",6995000,5,5.0,4776,20524190,FOR_SALE,House for sale
+"3432 Canyon Crest Rd, Altadena, CA 91001",1495000,3,3.0,2142,20910309,FOR_SALE,House for sale
+"7575 El Escorial Way, Buena Park, CA 90620",935000,4,2.0,1538,25244833,FOR_SALE,House for sale
+"245 Dickenson Ave, Thousand Oaks, CA 91320",888000,4,2.0,1427,16473051,FOR_SALE,House for sale
+"1302 N Whitnall Hwy, Burbank, CA 91505",865000,2,1.0,972,20061893,FOR_SALE,House for sale
+"6451 Chesebro Rd, Agoura Hills, CA 91301",5495000,6,7.0,5986,95638052,FOR_SALE,House for sale
+"15 Vista Circle Dr, Sierra Madre, CA 91024",925000,2,1.0,1221,20883047,FOR_SALE,House for sale
+"320 N Park Vis #64, Anaheim, CA 92806",174999,4,3.0,1440,456531081,FOR_SALE,Home for sale
+"12616 Bonaparte Ave, Los Angeles, CA 90066",999000,3,1.0,900,20441899,FOR_SALE,House for sale
+"2700 Brea Blvd APT 24, Fullerton, CA 92835",542000,2,2.0,944,25711517,FOR_SALE,Condo for sale
+"2606 W Avenue 30, Los Angeles, CA 90065",1495000,3,2.0,1497,20757884,FOR_SALE,House for sale
+"8102 Elden Ave, Whittier, CA 90605",974900,4,2.0,1496,21429798,FOR_SALE,House for sale
+"330 Ballena Dr, Diamond Bar, CA 91765",1159000,4,3.0,1853,21488240,FOR_SALE,House for sale
+"2040 W 154th St, Gardena, CA 90249",945000,4,2.0,1523,20357706,FOR_SALE,House for sale
+"6542 Zelzah Ave, Reseda, CA 91335",849000,3,3.0,1655,19917958,FOR_SALE,House for sale
+"14975 Excelsior Dr, La Mirada, CA 90638",849000,4,2.0,1586,21409048,FOR_SALE,House for sale
+"729 Bel Air Rd, Los Angeles, CA 90077",120000000,9,20.0,18784,243991671,FOR_SALE,House for sale
+"631 W Berkeley Ct, Ontario, CA 91762",799000,4,2.0,1946,17575962,FOR_SALE,House for sale
+"4725 Elder Ave, Seal Beach, CA 90740",1250000,4,2.0,1524,25314123,FOR_SALE,House for sale
+"3321 Via La Selva, Palos Verdes Estates, CA 90274",3299000,4,3.0,2712,21339314,FOR_SALE,House for sale
